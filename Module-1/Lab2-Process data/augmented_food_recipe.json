@@ -1,0 +1,2566 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Margherita Pizza",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 pizza dough ball (about 260g)",
+            "2 tablespoons tomato sauce",
+            "1 cup shredded mozzarella cheese",
+            "6-8 fresh basil leaves",
+            "1 tablespoon olive oil",
+            "pinch of salt",
+            "optional: grated parmesan"
+        ],
+        "directions": [
+            "Preheat oven to 250\u00b0C (482\u00b0F) with a baking stone if available.",
+            "Roll out dough to a 12-inch circle on a floured surface.",
+            "Spread tomato sauce evenly over dough, leaving a 1/2-inch border.",
+            "Scatter mozzarella cheese over sauce.",
+            "Bake on the stone for 10-12 minutes until crust is crisp and cheese melts.",
+            "Finish with basil leaves, drizzle with olive oil, and season with salt and optional parmesan.",
+            "Slice and serve immediately."
+        ],
+        "image_description": "The image depicts a classic Margherita pizza, characterized by its thin crust with visible char marks from the oven, topped with a vibrant red tomato sauce, melted white mozzarella cheese, and fresh green basil leaves. The pizza is presented on a wooden serving board, cut into four slices with one slice partially pulled away from the rest, accompanied by a small bowl of additional tomato sauce and a glass bottle of olive oil in the background. The overall presentation is simple yet visually appealing, with a focus on showcasing the quality of the ingredients."
+    },
+    {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hour 5 mins",
+        "ingredients": [
+            "500g boneless chicken thighs, cubed",
+            "1 cup yogurt",
+            "2 tablespoons lemon juice",
+            "2 teaspoons garam masala",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1 onion, minced",
+            "2 cloves garlic, minced",
+            "1 tablespoon grated ginger",
+            "1 can (400g) crushed tomatoes",
+            "1 cup heavy cream or coconut cream",
+            "2 tablespoons oil",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+        ],
+        "directions": [
+            "Marinate chicken in yogurt, lemon juice, garam masala, cumin, coriander, and a pinch of salt for at least 30 minutes.",
+            "In a large pan, heat oil and saut\u00e9 onion until translucent.",
+            "Add garlic and ginger; cook 1 minute until fragrant.",
+            "Add marinated chicken; cook until browned on all sides.",
+            "Stir in crushed tomatoes and simmer 15 minutes.",
+            "Reduce heat and add cream; simmer 5-10 minutes until sauce thickens.",
+            "Garnish with cilantro and serve with rice or naan."
+        ],
+        "image_description": "The image depicts a serving of Chicken Tikka Masala, a popular Indian-inspired dish, presented in a copper-colored metal bowl with two handles. The dish consists of tender chunks of grilled chicken cooked in a rich, creamy tomato-based sauce, garnished with fresh cilantro leaves and served with a side of basmati rice and naan bread. The vibrant orange-red sauce is visible in the bowl, accompanied by a dollop of cream, and the portion size appears to be generous, suggesting a satisfying meal for one or two people."
+    },
+    {
+        "id": 3,
+        "name": "Vegetable Stir-Fry with Tofu",
+        "cuisine": "Chinese",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "12 mins",
+        "total_time": "27 mins",
+        "ingredients": [
+            "200g firm tofu, cubed",
+            "1 tablespoon soy sauce",
+            "1 tablespoon cornstarch",
+            "2 tablespoons vegetable oil",
+            "1 cup broccoli florets",
+            "1 red bell pepper, sliced",
+            "1 carrot, julienned",
+            "1 cup snap peas",
+            "2 cloves garlic, minced",
+            "1 tablespoon rice vinegar",
+            "1 tablespoon hoisin sauce",
+            "1 teaspoon sesame oil"
+        ],
+        "directions": [
+            "Toss tofu with soy sauce and cornstarch.",
+            "Heat oil in a wok or large skillet over high heat.",
+            "Fry tofu until golden; remove and set aside.",
+            "Add garlic and vegetables; stir-fry 3-4 minutes until crisp-tender.",
+            "Return tofu to pan; add rice vinegar, hoisin sauce, and sesame oil.",
+            "Cook 1-2 minutes until coated; serve with steamed rice."
+        ],
+        "image_description": "The image depicts a vegetable stir-fry with tofu, featuring a medley of broccoli, carrots, snow peas, and cubed tofu in a savory brown sauce. The dish is presented in a white bowl, accompanied by a side of white rice in a smaller bowl and a pair of chopsticks on the right. The generous portion is artfully arranged, showcasing a vibrant mix of green, orange, and golden-brown hues."
+    },
+    {
+        "id": 4,
+        "name": "Greek Giouvertsa Salad with Lemon-Oregano Dressing",
+        "cuisine": "Greek",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "2 cups chopped romaine",
+            "1 cucumber, diced",
+            "1 cup cherry tomatoes, halved",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives",
+            "1/2 cup feta cheese, crumbled",
+            "2 tablespoons olive oil",
+            "1 tablespoon lemon juice",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste"
+        ],
+        "directions": [
+            "Toss romaine, cucumber, tomatoes, onion, olives, and feta in a bowl.",
+            "Whisk olive oil, lemon juice, oregano, salt, and pepper to make dressing.",
+            "Pour dressing over the salad and toss to combine.",
+            "Serve immediately."
+        ],
+        "image_description": "The image depicts a Greek salad, characterized by its vibrant colors and diverse ingredients. The salad is composed of romaine lettuce, halved cherry tomatoes, sliced cucumbers, Kalamata olives, thinly sliced red onions, and crumbled feta cheese, all presented in a large white bowl. A silver serving spoon is partially submerged in the salad, suggesting that it is ready to be served."
+    },
+    {
+        "id": 5,
+        "name": "Spaghetti Aglio e Olio",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "200g spaghetti",
+            "4 cloves garlic, thinly sliced",
+            "1/2 teaspoon red pepper flakes",
+            "1/4 cup olive oil",
+            "Fresh parsley, chopped",
+            "Salt to taste",
+            "Grated parmesan to serve"
+        ],
+        "directions": [
+            "Cook spaghetti in salted water until al dente; reserve 1/2 cup pasta water.",
+            "Heat olive oil in a pan; add garlic and red pepper flakes, cook until fragrant and lightly golden.",
+            "Toss pasta with garlic oil, adding reserve water as needed.",
+            "Season, mix in parsley, and serve with parmesan."
+        ],
+        "image_description": "The image depicts a serving of Spaghetti Aglio e Olio, characterized by its yellow hue and adorned with parsley, red pepper flakes, and garlic. The dish is presented in a white bowl, showcasing a generous portion of spaghetti that is generously coated in a light sauce and topped with grated Parmesan cheese. The overall presentation suggests a well-balanced and visually appealing culinary creation."
+    },
+    {
+        "id": 6,
+        "name": "Distance-Glazed Salmon with Dill",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "12 mins",
+        "total_time": "22 mins",
+        "ingredients": [
+            "2 salmon fillets",
+            "2 tablespoons honey",
+            "1 tablespoon soy sauce",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon fresh dill, chopped",
+            "Salt and pepper to taste"
+        ],
+        "directions": [
+            "Preheat oven to 200\u00b0C (400\u00b0F).",
+            "Mix honey, soy sauce, mustard, and dill.",
+            "Season salmon with salt and pepper; brush with glaze.",
+            "Bake 10-12 minutes until flaky; drizzle remaining glaze over and serve."
+        ],
+        "image_description": "The image depicts a glazed salmon fillet, sliced into three portions, presented on a wooden cutting board. The salmon is glazed with a dark amber sauce and garnished with fresh dill sprigs and spices, accompanied by lemon wedges on the side. The dish is served on a wooden cutting board, which rests on a dark surface, surrounded by scattered herbs and spices."
+    },
+    {
+        "id": 7,
+        "name": "Tomato Basil Soup",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "2 cans (400g each) crushed tomatoes",
+            "1 cup vegetable broth",
+            "1/2 cup cream or coconut milk",
+            "Fresh basil, torn",
+            "Salt and pepper to taste"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic in olive oil until translucent.",
+            "Add crushed tomatoes and broth; simmer 15 minutes.",
+            "Blend until smooth or leave chunky based on preference.",
+            "Stir in cream and basil; season to taste and serve."
+        ],
+        "image_description": "The image depicts a vibrant bowl of tomato basil soup, garnished with fresh basil leaves and surrounded by an assortment of ingredients. The soup is presented in a light blue ceramic bowl with a brown rim, filled to approximately three-quarters capacity, and features a rich red-orange hue. The surrounding ingredients include fresh tomatoes, basil leaves, garlic cloves, chili peppers, olive oil, salt, and cream or yogurt, which are arranged artfully around the bowl."
+    },
+    {
+        "id": 8,
+        "name": "Pad Thai",
+        "cuisine": "Thai",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "150g rice noodles",
+            "2 tablespoons tamarind paste",
+            "2 tablespoons fish sauce",
+            "1 tablespoon palm sugar or brown sugar",
+            "2 eggs",
+            "200g shrimp or chicken",
+            "1 cup bean sprouts",
+            "2 cloves garlic, minced",
+            "1 lime, cut into wedges",
+            "1/4 cup roasted peanuts, chopped",
+            "1 tablespoon oil",
+            "Chili flakes (optional)"
+        ],
+        "directions": [
+            "Prepare noodles according to package; drain and set aside.",
+            "Mix tamarind paste, fish sauce, and sugar to make sauce.",
+            "Saut\u00e9 garlic in oil; add shrimp or chicken and cook through.",
+            "Push meat aside, scramble eggs in the pan, then mix with noodles.",
+            "Add sauce and bean sprouts; toss quickly.",
+            "Garnish with peanuts, lime wedges, and chili flakes if desired."
+        ],
+        "image_description": "The image depicts a plate of Pad Thai, a stir-fry dish featuring rice noodles, succulent shrimp, and various vegetables, including bean sprouts and green onions, all expertly cooked together. The dish is garnished with four whole cooked shrimp on top and a lime wedge on the side, presented in a large ceramic plate with a brown rim. The vibrant colors of the ingredients are showcased against a rustic wooden table backdrop, surrounded by an assortment of spices, herbs, and condiments in small bowls."
+    },
+    {
+        "id": 9,
+        "name": "Chickpea Falafel with Tahini",
+        "cuisine": "Middle Eastern",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "2 cups cooked chickpeas",
+            "1 small onion, chopped",
+            "2 cloves garlic",
+            "1/4 cup fresh parsley",
+            "2 tablespoons flour",
+            "1 teaspoon cumin",
+            "1/2 teaspoon coriander",
+            "Salt and pepper",
+            "Oil for frying",
+            "Tahini sauce: 1/4 cup tahini, lemon juice, water"
+        ],
+        "directions": [
+            "Pulse chickpeas, onion, garlic, parsley, flour, and spices until coarse.",
+            "Form into small patties or balls.",
+            "Fry in hot oil until golden and crisp.",
+            "Whisk tahini with lemon juice and water to desired consistency.",
+            "Serve falafel with tahini sauce."
+        ],
+        "image_description": "The image depicts a dish of 'Chickpea Falafel' presented on a large, shallow plate with a brown rim and light blue interior. The falafel, six crispy, golden-brown patties, are arranged on the plate with sliced red onions, green onions, lemon wedges, and parsley leaves. \n\nThe dish is accompanied by various ingredients and condiments, including chickpeas, tahini sauce, spices, herbs, garlic cloves, and lemon, which are displayed in small bowls around the main plate. \n\nThe overall presentation is visually appealing, with a mix of earthy tones and vibrant colors, suggesting a Mediterranean or Middle Eastern culinary influence."
+    },
+    {
+        "id": 10,
+        "name": "Beef Tacos with Salsa Verde",
+        "cuisine": "Mexican",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "400g ground beef",
+            "1 packet taco seasoning",
+            "8 corn tortillas",
+            "1 cup salsa verde",
+            "Shredded lettuce",
+            "Chopped tomatoes",
+            "Grated cheddar or Mexican cheese",
+            "Sour cream (optional)"
+        ],
+        "directions": [
+            "Cook beef with taco seasoning until browned.",
+            "Warm tortillas in a dry skillet.",
+            "Fill tortillas with beef, lettuce, tomatoes, and cheese.",
+            "Top with salsa verde and sour cream if desired."
+        ],
+        "image_description": "The image depicts four tacos filled with seasoned ground beef, shredded lettuce, diced tomatoes, shredded cheese, guacamole or salsa verde, and sour cream, arranged on a blue-gray plate. The tacos are presented in a visually appealing manner, with the ingredients carefully balanced within crispy corn tortillas. The surrounding elements include additional toppings such as salsa, sour cream, and shredded cheese in small bowls, as well as lime wedges and a green pepper on the side."
+    },
+    {
+        "id": 11,
+        "name": "Pan-Seared Ribeye Steak",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "2 ribeye steaks (1 inch thick)",
+            "Salt and pepper",
+            "2 tablespoons butter",
+            "2 cloves garlic, smashed",
+            "Fresh thyme sprigs"
+        ],
+        "directions": [
+            "Season steaks with salt and pepper.",
+            "Sear in a hot pan with butter until desired doneness (about 4-5 minutes per side for medium-rare).",
+            "Add garlic and thyme during the last minute, spooning butter over steaks.",
+            "Rest 5 minutes before serving."
+        ],
+        "image_description": "This image depicts a pan-seared ribeye steak, cooked to medium-rare and presented in a cast-iron skillet. The steak is accompanied by sprigs of thyme and three cubes of butter, with visible seasonings including salt and peppercorns. The dish is garnished with a savory sauce or oil, adding to its rich appearance."
+    },
+    {
+        "id": 12,
+        "name": "Lentil Dal with Cumin and Turmeric",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 cup red lentils",
+            "1 small onion, chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon ground cumin",
+            "1/2 teaspoon turmeric",
+            "1 teaspoon salt",
+            "2 cups water",
+            "1 tablespoon oil",
+            "Fresh cilantro for garnish"
+        ],
+        "directions": [
+            "Rinse lentils until water runs clear.",
+            "Saut\u00e9 onion and garlic in oil until soft.",
+            "Add cumin and turmeric, cook 1 minute.",
+            "Add lentils and water; simmer 20-25 minutes until soft.",
+            "Season and garnish with cilantro."
+        ],
+        "image_description": "The image depicts a bowl of lentil dal, garnished with fresh cilantro, sliced onions, halved cherry tomatoes, and a slice of lime. The dish is presented in a ceramic bowl on a beige cloth napkin, accompanied by a spoon to the right and various ingredients such as turmeric powder, garlic cloves, an onion, and additional cilantro around it. The portion size appears to be a single serving."
+    },
+    {
+        "id": 13,
+        "name": "Miso-Glazed Cod with Sesame Rice",
+        "cuisine": "Japanese",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "2 cod fillets",
+            "2 tablespoons miso paste",
+            "1 tablespoon mirin",
+            "1 tablespoon soy sauce",
+            "1 teaspoon sugar",
+            "1 cup cooked rice",
+            "Sesame seeds and green onions for garnish",
+            "1 teaspoon sesame oil"
+        ],
+        "directions": [
+            "Whisk miso, mirin, soy sauce, and sugar to make glaze.",
+            "Brush cod with glaze and let sit 5 minutes.",
+            "Pan-sear or bake cod until flaky.",
+            "Fluff rice with sesame oil, top with cod, sesame seeds, and green onions."
+        ],
+        "image_description": "The image depicts a dish of 'Miso-Glazed Cod with Sesame Rice', featuring a generous portion of white rice topped with a seared cod fillet, sesame seeds, and chopped green onions. The dish is presented in a large, shallow bowl with a blue-green glaze, accompanied by a side of soy sauce, additional sesame seeds, and a small bowl of plain white rice. The overall presentation is visually appealing, with a harmonious balance of colors and textures."
+    },
+    {
+        "id": 14,
+        "name": "Caribbean Jerk Chicken",
+        "cuisine": "Caribbean",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "25 mins",
+        "total_time": "45 mins",
+        "ingredients": [
+            "4 chicken thighs",
+            "2 tablespoons jerk seasoning",
+            "1 tablespoon lime juice",
+            "1 tablespoon olive oil",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Marinate chicken with jerk seasoning, lime juice, olive oil, and salt for 20 minutes.",
+            "Grill or bake until cooked through, about 20-25 minutes.",
+            "Rest briefly and serve with sides like rice and beans."
+        ],
+        "image_description": "This image showcases a Caribbean Jerk Chicken dish, featuring four roasted chicken pieces arranged on a wooden platter. The chicken is garnished with lime slices, rosemary sprigs, and spices, and is accompanied by various ingredients such as salt, rice, beans, and other seasonings in small bowls around the platter. The presentation is vibrant and appetizing, with a mix of earthy tones from the wooden platter and bowls complemented by the bright green of the lime slices and the deep red of the beans."
+    },
+    {
+        "id": 15,
+        "name": "Roasted Tomato and Basil Pasta",
+        "cuisine": "Italian",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "300g pasta",
+            "3 cups cherry tomatoes, halved",
+            "3 cloves garlic, sliced",
+            "2 tablespoons olive oil",
+            "Fresh basil leaves",
+            "Salt and pepper",
+            "Grated parmesan"
+        ],
+        "directions": [
+            "Roast tomatoes and garlic with olive oil for 15-20 minutes.",
+            "Cook pasta until al dente, reserve 1/2 cup pasta water.",
+            "Toss pasta with roasted tomatoes, add water to loosen if needed.",
+            "Stir in torn basil and parmesan; season to taste."
+        ],
+        "image_description": "The image depicts a plate of penne pasta tossed with roasted cherry tomatoes, fresh basil leaves, and grated Parmesan cheese. The dish is presented on a large, shallow ceramic plate with a brown rim and blue interior, filled to a generous portion size. The vibrant colors of the red and yellow tomatoes, green basil, and white cheese create a visually appealing contrast against the earthy tones of the plate and surrounding ingredients."
+    },
+    {
+        "id": 16,
+        "name": "Paneer Butter Masala",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "250g paneer, cubed",
+            "2 tablespoons butter",
+            "1 onion, finely chopped",
+            "1 teaspoon ginger-garlic paste",
+            "2 tomatoes, pureed",
+            "1/2 cup cream",
+            "1 teaspoon garam masala",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Fry paneer lightly until golden; set aside.",
+            "Saut\u00e9 onion with butter, add ginger-garlic paste.",
+            "Add tomato puree and simmer 10 minutes.",
+            "Stir in cream, garam masala, and paneer; simmer 5 minutes.",
+            "Season to taste and serve with rice or naan."
+        ],
+        "image_description": "The image depicts a dish of Paneer Butter Masala, featuring cubes of paneer (Indian cheese) in a rich, reddish-orange sauce garnished with onions and cilantro. The dish is presented in a large bowl, accompanied by naan bread and various spices, including turmeric and chili powder. The portion size appears generous, with multiple servings visible."
+    },
+    {
+        "id": 17,
+        "name": "Falooda (Dessert Drink)",
+        "cuisine": "Indian",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "2 cups milk",
+            "2 tablespoons rose syrup",
+            "1 tablespoon vermicelli noodles (soaked)",
+            "1 scoop basil seeds (sabja), soaked",
+            "Ice",
+            "Cherries or shredded coconut for garnish"
+        ],
+        "directions": [
+            "In tall glasses, layer milk, rose syrup, soaked vermicelli, and sabja.",
+            "Add ice and garnish with cherries or coconut.",
+            "Serve with a spoon and straw."
+        ],
+        "image_description": "The image depicts a dessert drink, known as 'Falooda', presented in two tall glasses. The glasses contain layers of red jelly, white cream, and pink syrup, topped with whipped cream, cherries, and rose petals. The glasses are placed on a gray stone slab, surrounded by various ingredients such as rose petals, cherries, and bowls of pink powder and vermicelli noodles."
+    },
+    {
+        "id": 18,
+        "name": "Shakshuka",
+        "cuisine": "Mediterranean",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 onion, chopped",
+            "1 bell pepper, sliced",
+            "2 cloves garlic, minced",
+            "1 can (400g) chopped tomatoes",
+            "1 teaspoon paprika",
+            "1/2 teaspoon cumin",
+            "4 eggs",
+            "Fresh parsley for garnish",
+            "Salt and pepper to taste"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and pepper in olive oil until soft.",
+            "Add garlic, tomatoes, paprika, and cumin; simmer 10 minutes.",
+            "Make four wells in sauce and crack in eggs.",
+            "Cover and cook until eggs set; garnish with parsley."
+        ],
+        "image_description": "The image depicts a dish of Shakshuka, a North African culinary staple, characterized by eggs poached in a rich, vibrant sauce. The sauce is composed of saut\u00e9ed red and green peppers, onions, and tomatoes, with visible seasonings and spices, all contained within a black cast-iron skillet. The presentation showcases six eggs, with bright yellow yolks surrounded by white egg whites, set against a backdrop of the colorful vegetable mixture."
+    },
+    {
+        "id": 19,
+        "name": "Cuban Black Beans and Rice",
+        "cuisine": "Cuban",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "1 cup dried black beans (or 2 cans, drained)",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 bay leaf",
+            "1 teaspoon cumin",
+            "1 tablespoon olive oil",
+            "Rice to serve"
+        ],
+        "directions": [
+            "Soak beans if using dried (overnight recommended).",
+            "Saut\u00e9 onion and garlic in oil; add beans, bay leaf, cumin, and water.",
+            "Simmer until beans are tender (about 45 minutes for dried).",
+            "Serve over rice."
+        ],
+        "image_description": "The image depicts a dish of Cuban Black Beans and Rice, showcasing a generous serving of white rice surrounded by black beans, garlic cloves, and bay leaves on a large white plate. The visible ingredients include cooked black beans, white rice, garlic, and bay leaves, presented in a straightforward and appetizing manner. The colors are predominantly dark brown, white, and green, with a substantial portion size that suggests a filling meal."
+    },
+    {
+        "id": 20,
+        "name": "Beef Bulgogi",
+        "cuisine": "Korean",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "500g sirloin or flank steak, thinly sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sugar",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated ginger",
+            "1 green onion, chopped",
+            "Sesame seeds for garnish"
+        ],
+        "directions": [
+            "Marinate beef with soy sauce, sugar, sesame oil, garlic, and ginger for 15-20 minutes.",
+            "Stir-fry in a hot pan 2-3 minutes until cooked.",
+            "Garnish with green onion and sesame seeds; serve with rice."
+        ],
+        "image_description": "This image showcases a dish of 'Beef Bulgogi', a Korean marinated beef dish. The beef is sliced into thin strips, cooked to medium-rare, and presented on a bed of onions in a large, shallow bowl, garnished with green onions and sesame seeds. The dish is accompanied by various ingredients and seasonings, including rice, garlic, sesame seeds, and spices, arranged around the bowl on a table or countertop."
+    },
+    {
+        "id": 21,
+        "name": "Spanish Paella Valenciana",
+        "cuisine": "Spanish",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hour 5 mins",
+        "ingredients": [
+            "1 cup bomba rice or arborio",
+            "200g chicken pieces",
+            "150g chorizo, sliced",
+            "1 onion, chopped",
+            "1 red bell pepper, chopped",
+            "2 tomatoes, chopped",
+            "2 cups chicken broth",
+            "Saffron threads",
+            "Olive oil",
+            "Salt"
+        ],
+        "directions": [
+            "Brown chicken and chorizo in olive oil; set aside.",
+            "Saut\u00e9 onion and pepper; add tomatoes and cook until soft.",
+            "Add rice, saffron, and broth; bring to boil.",
+            "Return meat, cover, simmer until rice is cooked and liquid absorbed.",
+            "Rest 5 minutes before serving."
+        ],
+        "image_description": "The image depicts a traditional Spanish Paella Valenciana, characterized by its vibrant yellow rice, cooked to perfection in a large, shallow pan. The dish is adorned with succulent chicken legs, halved cherry tomatoes, and onions, all expertly arranged to create a visually appealing presentation. The pan is surrounded by an assortment of ingredients, including whole onions, garlic cloves, and various spices, which are scattered across the dark wooden table, adding to the overall aesthetic of the image."
+    },
+    {
+        "id": 22,
+        "name": "Tom Yum Goong",
+        "cuisine": "Thai",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "4 cups stock",
+            "2 stalks lemongrass, smashed",
+            "3 kaffir lime leaves",
+            "3-4 slices galangal",
+            "200g shrimp, peeled",
+            "1 cup mushrooms",
+            "2 tablespoons fish sauce",
+            "Lime juice to taste",
+            "Chili paste (optional)"
+        ],
+        "directions": [
+            "Boil stock with lemongrass, lime leaves, and galangal for 10 minutes.",
+            "Add mushrooms and shrimp; cook until shrimp turn pink.",
+            "Season with fish sauce and lime juice; add chili paste if desired."
+        ],
+        "image_description": "The image depicts a bowl of 'Tom Yum Goong', a Thai soup featuring succulent shrimp, mushrooms, and herbs in a vibrant orange broth. The dish is garnished with fresh cilantro, sliced red chilies, and a lime wedge, adding a pop of color and freshness to the presentation. The generous portion is served in a white ceramic bowl, accompanied by a spoon and a small side dish of chili flakes or spices."
+    },
+    {
+        "id": 23,
+        "name": "Chicken Caesar Salad",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "2 chicken breasts",
+            "Romaine lettuce",
+            "Croutons",
+            "Parmesan cheese",
+            "Caesar dressing"
+        ],
+        "directions": [
+            "Grill or pan-sear chicken; slice.",
+            "Toss lettuce with dressing and croutons.",
+            "Top with chicken slices and parmesan."
+        ],
+        "image_description": "The image depicts a Chicken Caesar Salad, featuring grilled chicken breast sliced into thin strips and placed atop a bed of romaine lettuce. The salad is garnished with croutons, halved cherry tomatoes, shaved parmesan cheese, and a creamy dressing, all presented in a dark-colored bowl. The portion size appears generous, suggesting a satisfying meal."
+    },
+    {
+        "id": 24,
+        "name": "Moussaka",
+        "cuisine": "Greek",
+        "servings": 4,
+        "prep_time": "30 mins",
+        "cook_time": "60 mins",
+        "total_time": "1 hour 30 mins",
+        "ingredients": [
+            "2 eggplants, sliced",
+            "500g ground lamb",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 can tomatoes",
+            "Bechamel sauce: butter, flour, milk, nutmeg",
+            "Olive oil, salt, pepper"
+        ],
+        "directions": [
+            "Roast eggplant slices until tender.",
+            "Cook lamb with onion and garlic; add tomatoes and season.",
+            "Layer eggplant and meat mixture in dish; top with bechamel.",
+            "Bake until golden and set."
+        ],
+        "image_description": "The image depicts a dish of Moussaka, a layered Greek casserole consisting of sliced eggplant, ground meat, and a white sauce. The visible ingredients include eggplant slices, a meat-based filling, melted cheese, and fresh herbs on top. The dish is presented in a rectangular baking pan, showcasing its golden-brown color and neatly arranged layers."
+    },
+    {
+        "id": 25,
+        "name": "Shoyu Ramen (Quick)",
+        "cuisine": "Japanese",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "2 servings ramen noodles",
+            "4 cups chicken broth",
+            "2 tablespoons soy sauce",
+            "1 teaspoon miso paste",
+            "Soft-boiled eggs",
+            "Slices of pork or chicken",
+            "Green onions"
+        ],
+        "directions": [
+            "Simmer broth with soy sauce and miso.",
+            "Cook noodles separately.",
+            "Assemble bowls with broth, noodles, meat, egg, and green onions."
+        ],
+        "image_description": "The image depicts a bowl of Shoyu Ramen, featuring a rich brown broth with thin noodles, sliced chicken breast, and various toppings. The visible ingredients include green onions, black sesame seeds, bamboo shoots, and soft-boiled eggs halved to reveal their runny yolks. The dish is presented in a black ceramic bowl against a dark gray background, showcasing a generous portion size."
+    },
+    {
+        "id": 26,
+        "name": "Lemon Garlic Shrimp Pasta",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "200g linguine",
+            "200g shrimp, peeled",
+            "2 cloves garlic, minced",
+            "1 lemon (zest and juice)",
+            "2 tablespoons olive oil",
+            "Parsley, chopped",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Cook pasta until al dente.",
+            "Saut\u00e9 garlic in olive oil; add shrimp until pink.",
+            "Toss with pasta, lemon zest/juice, and parsley.",
+            "Season and serve."
+        ],
+        "image_description": "The image depicts a plate of 'Lemon Garlic Shrimp Pasta', featuring cooked fettuccine noodles tossed with saut\u00e9ed shrimp, green beans, and lemon slices. The dish is seasoned with black pepper and herbs, and is presented in a large, shallow ceramic bowl. The portion size is generous, with a substantial amount of pasta and shrimp visible on the plate."
+    },
+    {
+        "id": 27,
+        "name": "Ratatouille",
+        "cuisine": "French",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hour 5 mins",
+        "ingredients": [
+            "1 eggplant, cubed",
+            "2 zucchinis, sliced",
+            "1 bell pepper, chopped",
+            "1 onion, chopped",
+            "2 tomatoes, chopped",
+            "2 cloves garlic, minced",
+            "Herbs de Provence",
+            "Olive oil"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic in olive oil.",
+            "Add vegetables; cook slowly with herbs until tender.",
+            "Season and serve warm or room temp."
+        ],
+        "image_description": "The image depicts a vibrant and colorful dish of Ratatouille, a classic Proven\u00e7al French stew originating from Nice. The bowl is filled with an assortment of sliced vegetables, including zucchini, eggplant, red bell peppers, tomatoes, and onions, showcasing a medley of green, purple, red, and orange hues. The ingredients appear to be raw or lightly cooked, arranged artfully in a white bowl atop a wooden cutting board."
+    },
+    {
+        "id": 28,
+        "name": "Crispy Skin Salmon with Dill Yogurt",
+        "cuisine": "Scandinavian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "12 mins",
+        "total_time": "22 mins",
+        "ingredients": [
+            "2 salmon fillets",
+            "Salt and pepper",
+            "1 tablespoon butter",
+            "1/2 cup yogurt",
+            "Fresh dill, chopped",
+            "Lemon wedges"
+        ],
+        "directions": [
+            "Season salmon; sear skin-side down in butter until crisp.",
+            "Flip and cook to desired doneness.",
+            "Mix yogurt with dill and a squeeze of lemon; serve with salmon."
+        ],
+        "image_description": "This image depicts a dish of 'Crispy Skin Salmon with Dill Yogurt'. The dish consists of two grilled salmon fillets, seasoned with black pepper and garnished with dill, served alongside a small bowl of white yogurt sauce infused with dill and a sprinkle of seasoning. The plate is accompanied by lemon wedges and a fork and knife with cream-colored handles, all presented on a gray wooden table."
+    },
+    {
+        "id": 29,
+        "name": "Thai Green Curry with Vegetables",
+        "cuisine": "Thai",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "2 tablespoons green curry paste",
+            "1 can coconut milk",
+            "Assorted vegetables (bell peppers, zucchini, snow peas)",
+            "Tofu or chicken",
+            "Fish sauce to taste",
+            "Basil or cilantro",
+            "Rice to serve"
+        ],
+        "directions": [
+            "Saut\u00e9 curry paste briefly in oil.",
+            "Add coconut milk and simmer 5 minutes.",
+            "Add protein and vegetables; cook until tender.",
+            "Season with fish sauce and garnish with herbs; serve over rice."
+        ],
+        "image_description": "The image depicts a vibrant and colorful dish of Thai Green Curry with Vegetables, featuring a medley of ingredients including tofu, zucchini, bell peppers, peas, and chili peppers in a rich green curry sauce. The curry is served alongside a generous portion of white rice in a large, shallow bowl, accompanied by wooden chopsticks and a spoon on the right side. The dish is presented on a light blue-gray surface, surrounded by an assortment of fresh herbs and spices, adding to the overall visual appeal."
+    },
+    {
+        "id": 30,
+        "name": "Mango Sticky Rice",
+        "cuisine": "Thai",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 cup glutinous rice",
+            "1 1/2 cups water",
+            "1/2 cup coconut milk",
+            "2 tablespoons sugar",
+            "1 ripe mango, sliced",
+            "Pinch salt"
+        ],
+        "directions": [
+            "Cook rice in water until tender.",
+            "Warm coconut milk with sugar and salt.",
+            "Pour coconut sauce over cooked rice and let absorb.",
+            "Serve with mango slices."
+        ],
+        "image_description": "The image depicts a traditional Thai dessert, 'Mango Sticky Rice', presented on a blue plate with a bowl of sticky rice topped with mango and a sprinkle of leaves. The dish is accompanied by sliced mangoes, a small bowl of sauce or syrup, and a spoonful of salt, all arranged on a wooden table. The portion size appears to be for one or two servings, as indicated by the recipe details provided in the image."
+    },
+    {
+        "id": 31,
+        "name": "Herbed Quinoa Salad",
+        "cuisine": "American",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "1 cup quinoa, rinsed",
+            "2 cups water",
+            "Cherry tomatoes, halved",
+            "Cucumber, diced",
+            "Parsley and mint, chopped",
+            "Lemon vinaigrette: lemon juice, olive oil, salt, pepper"
+        ],
+        "directions": [
+            "Cook quinoa in water until fluffy; cool.",
+            "Toss with vegetables, herbs, and vinaigrette.",
+            "Chill 10 minutes before serving if desired."
+        ],
+        "image_description": "The image depicts a 'Herbed Quinoa Salad' presented in a white ceramic bowl with a brown rim, filled to capacity. The salad consists of cooked quinoa mixed with sliced cucumbers, halved cherry tomatoes, and chopped fresh parsley. The dish is garnished with a light-colored dressing and is accompanied by a fork on the right side of the bowl."
+    },
+    {
+        "id": 32,
+        "name": "Beef Shawarma Wrap",
+        "cuisine": "Middle Eastern",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "400g beef strips",
+            "Shawarma spice blend",
+            "Pita breads",
+            "Tomato, cucumber, onion slices",
+            "Tahini sauce or yogurt sauce"
+        ],
+        "directions": [
+            "Marinate beef with shawarma spices.",
+            "Cook beef in a hot pan until done.",
+            "Fill pitas with beef and vegetables; drizzle with sauce."
+        ],
+        "image_description": "The image depicts a 'Beef Shawarma Wrap', a Middle Eastern-style sandwich featuring thinly sliced grilled beef, crisp lettuce, juicy tomatoes, crunchy cucumbers, and onions, all wrapped in a warm pita bread. The wrap is presented on a dark surface, surrounded by various accompaniments such as sauces, spices, and fresh vegetables, adding to the vibrant colors and textures of the dish. The portion size appears generous, with a substantial amount of filling visible within the wrap."
+    },
+    {
+        "id": 33,
+        "name": "Pesto Chicken Bake",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "4 chicken breasts",
+            "3 tablespoons pesto",
+            "1 cup mozzarella, shredded",
+            "Cherry tomatoes",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Season chicken and place in baking dish.",
+            "Top each with pesto, mozzarella, and tomatoes.",
+            "Bake at 200\u00b0C (400\u00b0F) for 22-25 minutes until chicken is cooked."
+        ],
+        "image_description": "The image depicts a 'Pesto Chicken Bake' consisting of four seared chicken breasts atop a bed of pasta, cheese, and pesto sauce, accompanied by cherry tomatoes. The dish is presented in a white baking dish, garnished with additional cherry tomatoes around the chicken and a side of pesto sauce in a wooden spoon. The overall presentation is visually appealing, with a mix of colors from the green pesto, red cherry tomatoes, and golden-brown chicken."
+    },
+    {
+        "id": 34,
+        "name": "Baked Eggplant Parmesan",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hour",
+        "ingredients": [
+            "2 eggplants, sliced",
+            "1 cup marinara sauce",
+            "1 cup mozzarella, shredded",
+            "1/2 cup parmesan, grated",
+            "Breadcrumbs",
+            "Eggs"
+        ],
+        "directions": [
+            "Dip eggplant slices in egg then breadcrumbs; bake until tender.",
+            "Layer with marinara and cheese; bake until golden."
+        ],
+        "image_description": "The image depicts a rectangular baking dish containing Baked Eggplant Parmesan, featuring layers of breaded and baked eggplant slices, tomato sauce, and melted cheese. The dish is presented on a wooden cutting board, surrounded by various ingredients such as tomatoes, onions, garlic, parsley, and grated cheese, which are arranged in small bowls and scattered around the dish. The overall presentation suggests a hearty, satisfying meal for multiple people."
+    },
+    {
+        "id": 35,
+        "name": "Moroccan Chickpea Stew",
+        "cuisine": "Moroccan",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 can chickpeas",
+            "1 can diced tomatoes",
+            "1 teaspoon cumin",
+            "1 teaspoon coriander",
+            "1/2 teaspoon cinnamon",
+            "Olive oil",
+            "Fresh cilantro"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add spices.",
+            "Add chickpeas and tomatoes; simmer 15-20 minutes.",
+            "Garnish with cilantro and serve."
+        ],
+        "image_description": "The image depicts a bowl of Moroccan Chickpea Stew, showcasing a hearty and vibrant dish. The stew is composed of chickpeas, diced tomatoes, and fresh cilantro leaves, all presented in a rich red broth within a decorative ceramic bowl. The portion size appears generous, filling the bowl to the brim."
+    },
+    {
+        "id": 36,
+        "name": "Crunchy Cabbage Slaw",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "1/2 head cabbage, shredded",
+            "1 carrot, shredded",
+            "1/4 cup mayonnaise",
+            "2 tablespoons rice vinegar",
+            "1 teaspoon sugar",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Mix dressing ingredients.",
+            "Toss with shredded cabbage and carrot.",
+            "Chill slightly before serving."
+        ],
+        "image_description": "The image presents a 'Crunchy Cabbage Slaw' dish, featuring shredded green cabbage and carrots in a large blue bowl. The ingredients are arranged around the bowl, including mayonnaise, vinegar, sugar, salt, and seasonings, indicating that the slaw is likely dressed with a creamy dressing. The portion size appears to be generous, with the slaw filling the large bowl."
+    },
+    {
+        "id": 37,
+        "name": "Ceviche de Pescado",
+        "cuisine": "Peruvian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "400g white fish (like sea bass), diced",
+            "Juice of 2 limes",
+            "1/2 red onion, thinly sliced",
+            "Chili peppers, finely chopped",
+            "Cilantro",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Cure fish in lime juice for about 10-15 minutes until opaque.",
+            "Mix with onion, chili, and cilantro; season and serve."
+        ],
+        "image_description": "This image shows a bowl of 'Ceviche de Pescado', a dish featuring raw fish marinated in citrus juices. The bowl contains chunks of white fish, sliced red onions, halved red chili peppers, and cilantro leaves, garnished with a lime wedge. The ingredients are arranged in a visually appealing manner within a ceramic bowl, which sits on a wooden cutting board surrounded by additional ingredients such as whole red chili peppers, a halved red onion, and lime halves."
+    },
+    {
+        "id": 38,
+        "name": "Thai Basil Chicken (Pad Krapow Gai)",
+        "cuisine": "Thai",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "8 mins",
+        "total_time": "18 mins",
+        "ingredients": [
+            "200g minced chicken",
+            "2 cloves garlic, minced",
+            "1 chili, chopped",
+            "1 tablespoon soy sauce",
+            "1 tablespoon fish sauce",
+            "Basil leaves",
+            "Rice to serve"
+        ],
+        "directions": [
+            "Saut\u00e9 garlic and chili in oil until fragrant.",
+            "Add chicken and cook through.",
+            "Stir in soy and fish sauces; toss with basil until wilted.",
+            "Serve over steamed rice."
+        ],
+        "image_description": "The image depicts a dish of Thai Basil Chicken, also known as Pad Krapow Gai, consisting of stir-fried chicken breast pieces cooked with Thai chilies, onions, and basil leaves in a savory brown sauce, served alongside a generous portion of white rice on a decorative plate. The dish is garnished with additional Thai basil leaves and red chili peppers, adding a pop of color to the presentation. The overall portion size appears to be a standard serving for one person."
+    },
+    {
+        "id": 39,
+        "name": "Caprese Salad",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "0 mins",
+        "total_time": "10 mins",
+        "ingredients": [
+            "Tomatoes, sliced",
+            "Fresh mozzarella, sliced",
+            "Fresh basil leaves",
+            "Olive oil",
+            "Balsamic glaze",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Alternate tomato and mozzarella slices on a plate.",
+            "Top with basil; drizzle olive oil and balsamic glaze.",
+            "Season with salt and pepper."
+        ],
+        "image_description": "The image depicts a Caprese Salad, a traditional Italian dish, presented on a white plate. The salad consists of alternating slices of fresh red tomatoes and white mozzarella cheese, garnished with green basil leaves and drizzled with a dark brown sauce, likely balsamic glaze, and a light yellow dressing, possibly olive oil. The arrangement is artfully composed, with the ingredients carefully placed to create a visually appealing pattern."
+    },
+    {
+        "id": 40,
+        "name": "Pumpkin Risotto",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "1 cup arborio rice",
+            "1 cup pumpkin puree",
+            "1/2 onion, finely chopped",
+            "3 cups vegetable broth",
+            "1/4 cup parmesan",
+            "2 tablespoons butter",
+            "Olive oil"
+        ],
+        "directions": [
+            "Saut\u00e9 onion in olive oil until translucent.",
+            "Add rice and toast 1-2 minutes.",
+            "Add warm broth gradually, stirring until absorbed.",
+            "Stir in pumpkin puree, butter, and parmesan; season to taste."
+        ],
+        "image_description": "The image depicts a 'Pumpkin Risotto' dish, showcasing a partially cooked risotto with visible ingredients such as cubed pumpkin, thinly sliced red onions, and butter. The risotto is presented in a large pan, accompanied by various ingredients like salt, shallots, and garlic, arranged around it on a dark surface. The overall presentation features a warm color palette, with shades of orange, yellow, and brown, and appears to be a single serving or a small batch."
+    },
+    {
+        "id": 41,
+        "name": "Garlic Butter Shrimp",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "5 mins",
+        "cook_time": "6 mins",
+        "total_time": "11 mins",
+        "ingredients": [
+            "200g shrimp, peeled",
+            "2 tablespoons butter",
+            "2 cloves garlic, minced",
+            "Lemon juice",
+            "Parsley"
+        ],
+        "directions": [
+            "Melt butter; add garlic and cook 1 minute.",
+            "Add shrimp; cook until pink.",
+            "Squeeze lemon juice; garnish with parsley and serve."
+        ],
+        "image_description": "The image depicts a dish of garlic butter shrimp, showcasing succulent pink shrimp cooked in a rich, golden sauce infused with garlic and parsley. The shrimp are presented in a black skillet, surrounded by ingredients such as lemon wedges, garlic cloves, and small bowls containing a yellow liquid, likely melted butter or oil. The overall presentation is visually appealing, with the vibrant colors of the shrimp, parsley, and lemon adding to the dish's attractiveness."
+    },
+    {
+        "id": 42,
+        "name": "Roasted Red Pepper Hummus",
+        "cuisine": "Middle Eastern",
+        "servings": 6,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "1 can chickpeas",
+            "1 roasted red pepper",
+            "2 tablespoons tahini",
+            "1 clove garlic",
+            "Juice of 1 lemon",
+            "Salt and olive oil"
+        ],
+        "directions": [
+            "Blend all ingredients until smooth.",
+            "Drizzle with olive oil and serve with pita or veggies."
+        ],
+        "image_description": "The image depicts a bowl of hummus, a traditional Middle Eastern dip, garnished with roasted red peppers, chickpeas, and various seasonings. The creamy beige hummus is presented in a dark brown bowl, topped with a spiral pattern of olive oil, red pepper flakes, salt, and black pepper, accompanied by sliced red peppers and chickpeas in the center. The dish is surrounded by an assortment of ingredients, including whole red and orange peppers, garlic cloves, salt, and pita bread, arranged on a dark wooden table."
+    },
+    {
+        "id": 43,
+        "name": "Garlic Naan",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "8 mins",
+        "total_time": "28 mins",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1/2 cup yogurt",
+            "1/2 cup warm water",
+            "2 tablespoons oil",
+            "1 teaspoon yeast",
+            "Garlic, minced",
+            "Salt"
+        ],
+        "directions": [
+            "Mix ingredients to form dough; knead until smooth.",
+            "Let rise 1 hour; divide and roll into rounds.",
+            "Cook on hot skillet 2-3 minutes per side.",
+            "Brush with garlic butter and serve."
+        ],
+        "image_description": "The image depicts a plate of garlic naan, a type of Indian flatbread. The naan is arranged in a circular pattern on a gray plate, with five pieces visible and topped with garlic cloves and herbs, accompanied by a small bowl of garlic cloves in the center. The naan appears to be cooked in a tandoor oven, as evidenced by its charred spots and golden-brown color."
+    },
+    {
+        "id": 44,
+        "name": "Butter Chicken",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "500g chicken, cubed",
+            "2 tablespoons butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon garam masala",
+            "1 can tomato sauce",
+            "1/2 cup cream",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic in butter.",
+            "Add chicken and cook until sealed.",
+            "Stir in tomato sauce and garam masala; simmer 15 minutes.",
+            "Stir in cream; season and serve with rice or naan."
+        ],
+        "image_description": "The image depicts a dish of 'Butter Chicken', which appears to be a rich and vibrant curry. The curry is presented in a blue bowl, filled with tender chunks of marinated chicken cooked in a thick, reddish-orange sauce, accompanied by onions, herbs, and spices. The generous portion is artfully garnished with fresh green leaves and scattered spices around the bowl."
+    },
+    {
+        "id": 45,
+        "name": "Coconut Curry Lentil Soup",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "1 cup red lentils",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tablespoon curry powder",
+            "1 can coconut milk",
+            "2 cups vegetable broth",
+            "Salt to taste"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add curry powder.",
+            "Add lentils, coconut milk, and broth; simmer 25 minutes.",
+            "Season and serve hot."
+        ],
+        "image_description": "The image depicts a bowl of lentil soup, garnished with red chili peppers, onions, and herbs, and topped with a swirl of white cream or yogurt. The soup is served in a dark brown ceramic bowl and has a vibrant yellow-orange color, indicating the presence of turmeric or other spices. The dish is presented on a wooden platter, surrounded by various ingredients, including whole spices, split lentils, and lemon halves, suggesting a traditional Indian or Southeast Asian culinary style."
+    },
+    {
+        "id": 46,
+        "name": "Gyro Wrap",
+        "cuisine": "Greek",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Gyro meat (lamb or chicken) or substitute with sliced chicken",
+            "Pita breads",
+            "Tomato, onion, cucumber slices",
+            "Tzatziki sauce"
+        ],
+        "directions": [
+            "Cook gyro meat until browned.",
+            "Warm pita; fill with meat and vegetables.",
+            "Top with tzatziki."
+        ],
+        "image_description": "The image depicts a Gyro Wrap, a traditional Greek dish, consisting of a pita bread filled with sliced meat, likely lamb or beef, and various vegetables such as tomatoes, cucumbers, and red onions. The wrap is presented on a wooden cutting board, accompanied by a dollop of tzatziki sauce at its base and additional toppings visible inside. The filling ingredients are neatly arranged within the pita, which is partially unwrapped to reveal its contents."
+    },
+    {
+        "id": 47,
+        "name": "Pollo a la Brasa (Peruvian Roast Chicken)",
+        "cuisine": "Peruvian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hour",
+        "ingredients": [
+            "4 chicken thighs",
+            "2 cloves garlic, minced",
+            "1 teaspoon cumin",
+            "1 teaspoon paprika",
+            "Salt and pepper",
+            "Lime wedges"
+        ],
+        "directions": [
+            "Marinate chicken with garlic, cumin, paprika, salt, and pepper.",
+            "Roast at 200\u00b0C (400\u00b0F) for 40-45 minutes until cooked.",
+            "Serve with lime wedges."
+        ],
+        "image_description": "The image shows a whole roasted chicken, likely 'Pollo a la Brasa', presented on a large, shallow clay platter. The chicken is roasted to a golden brown and is surrounded by lime wedges and spices. The dish is garnished with herbs and spices, and the platter is accompanied by additional ingredients such as salt, garlic cloves, and more limes, suggesting a flavorful and aromatic meal."
+    },
+    {
+        "id": 48,
+        "name": "Mango Salsa Chicken",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "4 chicken breasts",
+            "1 mango, diced",
+            "1 red onion, diced",
+            "Cilantro, chopped",
+            "Lime juice",
+            "Salt"
+        ],
+        "directions": [
+            "Season chicken and sear in a pan.",
+            "Top with mango salsa (mango, onion, cilantro, lime juice).",
+            "Bake 10 minutes to finish cooking."
+        ],
+        "image_description": "The image depicts a dish of grilled chicken breasts topped with mango salsa, presented on a white plate with a brown rim. The four chicken breasts are arranged in a circular pattern and feature visible grill marks. They are accompanied by a vibrant mango salsa comprising diced mango, red onion, red bell pepper, and cilantro, along with three lime wedges."
+    },
+    {
+        "id": 49,
+        "name": "Rice Paper Rolls with Peanut Dip",
+        "cuisine": "Vietnamese",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "0 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Rice paper sheets",
+            "Rice noodles",
+            "Shrimp or tofu",
+            "Fresh herbs (mint, basil)",
+            "Carrots, cucumber, lettuce",
+            "Peanut dipping sauce"
+        ],
+        "directions": [
+            "Soak rice papers; fill with noodles, greens, and protein.",
+            "Roll tightly; serve with peanut dip."
+        ],
+        "image_description": "The image depicts a platter of rice paper rolls accompanied by a peanut dipping sauce, featuring visible ingredients such as shrimp, carrots, cucumbers, lettuce, mint, and rice noodles. The dish is presented in a circular bamboo basket with a bowl of peanut sauce at its center, garnished with sesame seeds and mint leaves. The arrangement showcases a variety of colors, including green from the lettuce and herbs, orange from the carrots, and white from the rice noodles and tofu."
+    },
+    {
+        "id": 50,
+        "name": "Beef Nachos",
+        "cuisine": "Mexican",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Tortilla chips",
+            "Ground beef",
+            "Cheddar cheese",
+            "Refried beans (optional)",
+            "Salsa, sour cream, jalapenos"
+        ],
+        "directions": [
+            "Cook beef with seasoning.",
+            "Layer chips, beef, and cheese; bake until cheese melts.",
+            "Top with beans, salsa, sour cream, and jalapenos."
+        ],
+        "image_description": "The image depicts a platter of beef nachos, featuring a generous serving of tortilla chips topped with seasoned ground beef, refried beans, melted cheese, sour cream, sliced jalape\u00f1os and cherry tomatoes. The dish is presented on a large metal platter, surrounded by various accompaniments such as salsa, shredded cheese, and additional jalape\u00f1os, all arranged on a wooden table. The overall presentation is vibrant and appetizing, with a mix of warm and cool colors that highlight the diverse ingredients."
+    },
+    {
+        "id": 51,
+        "name": "Herbed Chicken Skewers",
+        "cuisine": "Mediterranean",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "12 mins",
+        "total_time": "32 mins",
+        "ingredients": [
+            "4 chicken thighs, cubed",
+            "Olive oil",
+            "Herbs (rosemary, thyme)",
+            "Lemon wedges",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Thread chicken onto skewers after marinating briefly.",
+            "Grill until cooked through, basting with oil and herbs.",
+            "Serve with lemon wedges."
+        ],
+        "image_description": "The image depicts a plate of herbed chicken skewers, showcasing four metal skewers with grilled chicken pieces, onions, and rosemary. The dish is presented on a gray plate, accompanied by lemon wedges and a small bowl of coarse salt and peppercorns, all arranged on a gray surface. The portion size appears to be moderate, with four skewers, each containing four to five pieces of chicken."
+    },
+    {
+        "id": 52,
+        "name": "Coconut Shrimp Curry",
+        "cuisine": "Caribbean",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Shrimp",
+            "Coconut milk",
+            "Curry powder",
+            "Onion, garlic",
+            "Bell pepper",
+            "Salt"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add curry powder.",
+            "Add coconut milk and vegetables; simmer 10 minutes.",
+            "Add shrimp; cook until pink and serve."
+        ],
+        "image_description": "The image showcases a vibrant and appetizing dish of Coconut Shrimp Curry, featuring succulent shrimp, sliced onions, bell peppers, and green chilies in a rich yellow curry sauce. The curry is presented in a black pan with a handle on the right side, surrounded by various ingredients and seasonings, including coconut milk, spices, and fresh herbs. The overall presentation is visually appealing, with a generous portion size that suggests a hearty and satisfying meal."
+    },
+    {
+        "id": 53,
+        "name": "Herbed Mushroom Risotto",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "1 cup arborio rice",
+            "Mushrooms, sliced",
+            "1 small onion, chopped",
+            "1/2 cup white wine",
+            "1/2 cup parmesan",
+            "Broth"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and mushrooms; add rice and toast.",
+            "Deglaze with wine; add broth gradually until creamy."
+        ],
+        "image_description": "This image showcases a dish of 'Herbed Mushroom Risotto', featuring a generous serving of creamy risotto topped with saut\u00e9ed mushrooms and garnished with fresh herbs. The risotto is presented in a brown ceramic bowl, accompanied by a fork and knife on a beige napkin to the left. The surrounding ingredients, including grated Parmesan cheese, olive oil, and additional mushrooms, are arranged in various bowls and scattered around the main dish, suggesting a hearty and satisfying meal."
+    },
+    {
+        "id": 54,
+        "name": "Lemon Ricotta Pancakes",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "1 cup flour",
+            "1/2 cup ricotta",
+            "1 egg",
+            "1/2 cup milk",
+            "Zest of lemon",
+            "Butter for cooking"
+        ],
+        "directions": [
+            "Mix all ingredients into a smooth batter.",
+            "Cook on a hot skillet until bubbles form; flip and cook through."
+        ],
+        "image_description": "This image showcases a dish of 'Lemon Ricotta Pancakes', featuring a golden-brown pancake generously topped with powdered sugar and a whole egg yolk. The pancake is surrounded by an assortment of ingredients, including butter, lemon, flour, milk, and lemon zest, all arranged on a silver platter. The presentation is visually appealing, with a focus on the vibrant colors of the ingredients and the neatly arranged composition."
+    },
+    {
+        "id": 55,
+        "name": "Egg Fried Rice",
+        "cuisine": "Chinese",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "8 mins",
+        "total_time": "18 mins",
+        "ingredients": [
+            "Cooked rice",
+            "Eggs",
+            "Green onions",
+            "Soy sauce",
+            "Peas and carrots"
+        ],
+        "directions": [
+            "Scramble eggs in a wok; set aside.",
+            "Stir-fry vegetables, add rice, then eggs.",
+            "Season with soy sauce and scallions."
+        ],
+        "image_description": "The image depicts a large serving of 'Egg Fried Rice' presented in a dark brown, shallow pan. The dish is composed of cooked rice mixed with scrambled eggs, diced carrots, peas, and cubed tofu, topped with four fried eggs and garnished with sliced green onions and black sesame seeds. The portion is substantial, served in a large pan accompanied by two small bowls of sauce and utensils, indicating it is intended for multiple servings."
+    },
+    {
+        "id": 56,
+        "name": "Okonomiyaki (Japanese Pancake)",
+        "cuisine": "Japanese",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Cabbage, shredded",
+            "Flour, water, egg batter",
+            "Thinly sliced pork or shrimp",
+            "Okonomiyaki sauce",
+            "Mayonnaise"
+        ],
+        "directions": [
+            "Mix batter with cabbage.",
+            "Cook on a griddle; top with meat and flip.",
+            "Brush with sauce and drizzle with mayo."
+        ],
+        "image_description": "The image depicts a savory Japanese pancake, known as Okonomiyaki, presented on a white plate atop a bed of shredded cabbage. The pancake is topped with a single cooked shrimp, drizzled with a dark brown sauce and mayonnaise, and sprinkled with a light brown powder, likely bonito flakes or dried seaweed. The dish is served with dipping sauces in small bowls around it, suggesting a generous portion size."
+    },
+    {
+        "id": 57,
+        "name": "Herb-Ceta Pasta with Lemon",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "12 mins",
+        "total_time": "22 mins",
+        "ingredients": [
+            "Pasta of choice",
+            "Lemon zest and juice",
+            "Fresh herbs (parsley, basil)",
+            "Olive oil",
+            "Parmesan"
+        ],
+        "directions": [
+            "Cook pasta; reserve some pasta water.",
+            "Toss with lemon zest, juice, herbs, and olive oil.",
+            "Add a splash of pasta water; finish with parmesan."
+        ],
+        "image_description": "The image depicts a dish of penne pasta tossed in a vibrant green herb sauce, garnished with fresh basil leaves and lemon wedges. The pasta is generously coated with the sauce and topped with grated Parmesan cheese, presented in a shallow ceramic bowl on a wooden board accompanied by a fork. The overall presentation is visually appealing, with a generous portion size and a pop of color from the lemon and herbs."
+    },
+    {
+        "id": 58,
+        "name": "Coconut Rice with Beans",
+        "cuisine": "Caribbean",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "Cooked rice",
+            "Coconut milk",
+            "Black beans",
+            "Garlic powder",
+            "Cilantro"
+        ],
+        "directions": [
+            "Simmer coconut milk with garlic powder; stir in beans and cilantro.",
+            "Serve over rice."
+        ],
+        "image_description": "The dish depicted in the image is 'Coconut Rice with Beans', a culinary preparation that combines cooked black beans and rice in a creamy coconut milk broth. The visible ingredients include black beans, white rice, chopped green onions, and red peppers, all presented in a large silver bowl with a wooden spoon. The overall presentation features a mix of earthy tones from the beans and spices, complemented by the white rice and creamy broth, arranged on a light gray surface surrounded by various bowls containing additional ingredients such as raw beans, spices, garlic, and oil."
+    },
+    {
+        "id": 59,
+        "name": "Baked Cod with Tomato and Olive",
+        "cuisine": "Mediterranean",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Cod fillets",
+            "Tomatoes, chopped",
+            "Olives, sliced",
+            "Garlic, minced",
+            "Olive oil",
+            "Parsley"
+        ],
+        "directions": [
+            "Place cod in baking dish; top with tomatoes, olives, and garlic.",
+            "Drizzle with olive oil; bake at 200\u00b0C (400\u00b0F) for 12-15 minutes.",
+            "Garnish with parsley."
+        ],
+        "image_description": "The image depicts a baked cod fillet, seasoned with herbs and spices, surrounded by halved cherry tomatoes and a mix of green and black olives in a savory olive oil sauce. The dish is garnished with parsley and presented on a brown-rimmed plate, accompanied by a knife and fork on the right side. The overall presentation is visually appealing, with a generous portion size and a vibrant color palette featuring shades of red, green, and white."
+    },
+    {
+        "id": 60,
+        "name": "Seared Tuna Ni\u00e7oise",
+        "cuisine": "French",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Tuna steak",
+            "Olives",
+            "Green beans",
+            "Potatoes, boiled",
+            "Eggs, hard-boiled",
+            "Lemon vinaigrette"
+        ],
+        "directions": [
+            "Sear tuna to desired doneness.",
+            "Boil beans and potatoes; assemble with eggs and olives.",
+            "Dress with lemon vinaigrette."
+        ],
+        "image_description": "The image depicts a 'Seared Tuna Ni\u00e7oise' dish, featuring seared tuna steak alongside boiled potatoes, green beans, and halved hard-boiled eggs. The plate is garnished with various accompaniments, including olives, lemon wedges, and herbs, and is set with two forks and knives on either side. The overall presentation is visually appealing, with a harmonious balance of colors and textures."
+    },
+    {
+        "id": 61,
+        "name": "Harissa Chickpea Bowl",
+        "cuisine": "Moroccan",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Chickpeas",
+            "Quinoa or rice",
+            "Harissa paste",
+            "Lemon yogurt sauce",
+            "Cucumber, tomato, herbs"
+        ],
+        "directions": [
+            "Roast chickpeas with harissa 15-20 minutes.",
+            "Serve over quinoa with fresh vegetables and lemon yogurt sauce."
+        ],
+        "image_description": "The 'Harissa Chickpea Bowl' is a visually appealing dish featuring a bed of couscous topped with chickpeas in a rich harissa sauce, sliced cucumbers, diced tomatoes, and a dollop of white sauce. The ingredients are artfully arranged in a decorative bowl, showcasing a vibrant color palette that includes the deep red of the harissa, the green of the herbs and cucumbers, and the creamy white of the sauce. The portion size appears generous, filling the bowl with a satisfying amount of food."
+    },
+    {
+        "id": 62,
+        "name": "Salmon with Dill and Mustard Glaze",
+        "cuisine": "Nordic",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "12 mins",
+        "total_time": "22 mins",
+        "ingredients": [
+            "Salmon fillets",
+            "Dijon mustard",
+            "Dill, chopped",
+            "Honey",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Mix glaze with mustard, dill, and honey.",
+            "Brush on salmon; bake or pan-sear until flaky."
+        ],
+        "image_description": "The image depicts two salmon fillets, seasoned with salt and herbs, topped with a dill and mustard glaze, and presented on a baking sheet. The salmon is cooked to a light pink color and features a darkened skin side, indicating it has been baked or broiled. The dish is garnished with fresh dill sprigs and accompanied by a drizzle of olive oil, coarse salt, and a small bowl of additional glaze ingredients in the background."
+    },
+    {
+        "id": 63,
+        "name": "Butter Lettuce Salad with Avocado",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "0 mins",
+        "total_time": "10 mins",
+        "ingredients": [
+            "Butter lettuce",
+            "Avocado slices",
+            "Cherry tomatoes",
+            "Lemon vinaigrette"
+        ],
+        "directions": [
+            "Toss greens with avocado and tomatoes.",
+            "Drizzle with vinaigrette and serve."
+        ],
+        "image_description": "The image depicts a 'Butter Lettuce Salad with Avocado' in a white ceramic bowl, featuring a mix of butter lettuce leaves, halved cherry tomatoes, and diced avocado. The salad is presented on a brown surface, accompanied by a hand holding a small pitcher of yellow dressing above it, with a fork resting on the right side of the bowl. The portion size appears to be a single serving, and the overall presentation is fresh and vibrant, with a focus on the natural colors of the ingredients."
+    },
+    {
+        "id": 64,
+        "name": "Eggplant Caponata",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "25 mins",
+        "total_time": "45 mins",
+        "ingredients": [
+            "Eggplant, diced",
+            "Celery, chopped",
+            "Tomatoes, chopped",
+            "Olives, chopped",
+            "Capers",
+            "Vinegar and sugar"
+        ],
+        "directions": [
+            "Saut\u00e9 eggplant until soft.",
+            "Add vegetables and simmer with vinegar and sugar until thick.",
+            "Serve warm or at room temperature."
+        ],
+        "image_description": "The image shows a dish of Eggplant Caponata, a Sicilian eggplant relish. The dish is presented in a shallow ceramic bowl and contains visible ingredients such as sliced eggplant, diced tomatoes, green olives, capers, and celery, all cooked together in a rich sauce. The vibrant colors of the ingredients are on display, with the deep purple of the eggplant contrasting with the bright red of the tomatoes and the green of the olives and celery, and the dish appears to be a generous portion."
+    },
+    {
+        "id": 65,
+        "name": "Avocado Toast with Poached Egg",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "5 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "Bread slices",
+            "Ripe avocado",
+            "Eggs",
+            "Lemon juice",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Toast bread; mash avocado with lemon, salt, and pepper.",
+            "Poach eggs; place on toast and serve."
+        ],
+        "image_description": "The image depicts a plate of 'Avocado Toast with Poached Egg', featuring toasted bread topped with mashed avocado, sliced avocado, and two poached eggs. The dish is garnished with lemon wedges and seasoned with salt, pepper, and herbs, presented on a white plate against a gray background. The portion size appears to be a single serving, accompanied by additional ingredients and condiments, including olive oil, salt, and whole avocados, arranged around the plate."
+    },
+    {
+        "id": 66,
+        "name": "Herbed Tomato Soup",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Tomatoes, chopped",
+            "Onion",
+            "Garlic",
+            "Herbs (basil, thyme)",
+            "Vegetable broth",
+            "Cream or milk"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add tomatoes and broth.",
+            "Simmer 20 minutes; blend until smooth.",
+            "Stir in cream and herbs; season and serve."
+        ],
+        "image_description": "The image depicts a bowl of 'Herbed Tomato Soup', a vibrant red soup garnished with sliced tomatoes, fresh herbs like basil and thyme, and a dollop of cream. The soup is presented in a black bowl, surrounded by various ingredients such as cherry tomatoes on the vine, garlic cloves, an onion, and a measuring cup containing a green spice or herb mixture. The portion size appears to be for four servings, as indicated by the text at the top of the image."
+    },
+    {
+        "id": 67,
+        "name": "Pesto Gnocchi with Cherry Tomatoes",
+        "cuisine": "Italian",
+        "servings": 3,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Gnocchi",
+            "Pesto",
+            "Cherry tomatoes",
+            "Parmesan"
+        ],
+        "directions": [
+            "Boil gnocchi until floating; drain.",
+            "Toss with pesto and halved tomatoes; top with parmesan."
+        ],
+        "image_description": "The image depicts a plate of Pesto Gnocchi with Cherry Tomatoes, showcasing small, pillowy gnocchi smothered in a vibrant green pesto sauce and topped with halved cherry tomatoes and shredded Parmesan cheese. The dish is garnished with fresh basil leaves and presented on a white ceramic plate with a brown rim, set against a blue-gray background. The portion appears to be generous, filling the plate with a colorful and appetizing arrangement of ingredients."
+    },
+    {
+        "id": 68,
+        "name": "Paneer Butter Fry",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Paneer cubes",
+            "Butter",
+            "Onion",
+            "Tomato paste",
+            "Cream",
+            "Spices"
+        ],
+        "directions": [
+            "Saut\u00e9 onion in butter; add paneer and brown.",
+            "Add tomato paste and spices; simmer with a splash of cream."
+        ],
+        "image_description": "The image depicts a dish of 'Paneer Butter Masala,' a popular Indian curry. The dish is presented in a dark brown bowl and features grilled paneer cubes, onions, and tomatoes in a rich red sauce, topped with a dollop of white cream and garnished with green onions and spices. The portion size appears to be generous, filling the bowl."
+    },
+    {
+        "id": 69,
+        "name": "Lemon Garlic Roasted Brussels Sprouts",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Brussels sprouts",
+            "Olive oil",
+            "Garlic",
+            "Lemon zest",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Toss sprouts with oil, garlic, salt, and pepper.",
+            "Roast at 200\u00b0C (400\u00b0F) for 20-25 minutes; finish with lemon zest."
+        ],
+        "image_description": "The image depicts a bowl of roasted Brussels sprouts, showcasing a medley of green and caramelized vegetables, accompanied by sliced lemons and garlic cloves. The dish is presented in a brown ceramic bowl, with the ingredients arranged in a visually appealing manner. The overall presentation suggests a generous serving size, likely intended for 4-6 people."
+    },
+    {
+        "id": 70,
+        "name": "Paneer Tarsi with Spinach",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "Paneer cubes",
+            "Spinach",
+            "Onion",
+            "Tomato",
+            "Garam masala"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and tomato; add spices.",
+            "Stir in spinach until wilted; add paneer and simmer briefly."
+        ],
+        "image_description": "The image depicts a vibrant and colorful dish, 'Paneer Tarsi with Spinach', which appears to be a saut\u00e9ed preparation featuring paneer (Indian cheese), spinach leaves, onions, and cherry tomatoes. The ingredients are arranged in a large pan with two handles, showcasing a medley of green spinach, white onions, red cherry tomatoes, and beige paneer cubes. The surrounding ingredients include various spices and seasonings, such as garam masala, garlic, and spices, which are likely used to flavor the dish."
+    },
+    {
+        "id": 71,
+        "name": "Rendang Beef",
+        "cuisine": "Indonesian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "2 hours",
+        "total_time": "2 hours 20 mins",
+        "ingredients": [
+            "Beef chunks",
+            "Coconut milk",
+            "Rendang paste",
+            "Lemongrass",
+            "Galangal",
+            "Bay leaf"
+        ],
+        "directions": [
+            "Simmer beef with coconut milk and rendang paste with aromatics until tender and thickened."
+        ],
+        "image_description": "The image depicts a bowl of Rendang Beef, a traditional Malaysian dish. The beef is cooked in a rich, dark orange-brown sauce and garnished with green leaves, likely kaffir lime or bay leaves, and presented in a large, shallow ceramic bowl. The dish is surrounded by various ingredients, including shallots, ginger, lemongrass, star anise, cinnamon sticks, salt, and spices, which are arranged in small bowls around the main bowl."
+    },
+    {
+        "id": 72,
+        "name": "Chili Con Carne",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "Ground beef",
+            "Chili powder",
+            "Tomato sauce",
+            "Kidney beans",
+            "Onion, garlic",
+            "Cumin"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add beef and brown.",
+            "Add spices, tomato sauce, and beans; simmer 25-30 minutes."
+        ],
+        "image_description": "The image depicts a vibrant and appetizing dish of 'Chili Con Carne', showcasing a rich, red-brown stew made with ground beef, kidney beans, and diced tomatoes. The stew is presented in a large black pot, garnished with fresh green herbs and accompanied by an assortment of ingredients, including onions, garlic, chili peppers, and spices, arranged around it on a wooden table. The overall presentation is visually appealing, with a mix of warm colors and varied textures that highlight the dish's hearty and flavorful composition."
+    },
+    {
+        "id": 73,
+        "name": "Persian Jeweled Rice",
+        "cuisine": "Persian",
+        "servings": 4,
+        "prep_time": "30 mins",
+        "cook_time": "25 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "Basmati rice",
+            "Saffron",
+            "Barberries",
+            "Almonds",
+            "Raisins",
+            "Butter"
+        ],
+        "directions": [
+            "Cook rice; mix with saffron and jeweled mix of nuts and dried fruits.",
+            "Fluff and serve."
+        ],
+        "image_description": "This image showcases a traditional Persian dish, 'Shirazi Rice' or 'Jeweled Rice,' characterized by its vibrant yellow and white hues. The rice is adorned with an assortment of ingredients, including almonds, dried fruits such as raisins and cranberries, and orange peel, arranged in a decorative pattern on top. The dish is presented in an ornate gold-rimmed bowl, accompanied by a gold spoon and surrounded by additional bowls containing complementary ingredients, suggesting a generous serving size."
+    },
+    {
+        "id": 74,
+        "name": "Moroccan Lentil Soup (Harira)",
+        "cuisine": "Moroccan",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "ingredients": [
+            "Lentils",
+            "Tomato paste",
+            "Chickpeas",
+            "Coriander",
+            "Cumin",
+            "Lemon juice"
+        ],
+        "directions": [
+            "Saut\u00e9 onions, garlic; add tomato paste and spices.",
+            "Add lentils and chickpeas with water; simmer until tender.",
+            "Finish with lemon juice and herbs."
+        ],
+        "image_description": "The image depicts a vibrant and flavorful Moroccan Lentil Soup, also known as Harira, presented in a large black pot. The soup is a rich, reddish-brown hue, featuring a medley of ingredients including chickpeas, halved cherry tomatoes, sliced onions, and fresh parsley leaves. The dish is surrounded by various bowls containing additional ingredients and spices, such as turmeric, cumin, coriander, salt, lemon wedges, and herbs, which are likely used to prepare the soup."
+    },
+    {
+        "id": 75,
+        "name": "Thai Red Curry with Chicken",
+        "cuisine": "Thai",
+        "servings": 3,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Red curry paste",
+            "Coconut milk",
+            "Chicken pieces",
+            "Bell peppers",
+            "Basil",
+            "Fish sauce"
+        ],
+        "directions": [
+            "Saut\u00e9 curry paste in oil; add chicken to sear.",
+            "Pour in coconut milk; add vegetables and simmer until cooked.",
+            "Finish with basil and fish sauce."
+        ],
+        "image_description": "The image depicts a bowl of Thai Red Curry with Chicken, featuring chunks of cooked chicken, sliced red and green bell peppers, and whole green peppercorns in a vibrant red curry sauce. The dish is garnished with fresh basil leaves and presented in a ceramic bowl on a wooden table, accompanied by additional basil leaves and a small bowl of spices in the background. The portion size appears to be generous, filling the bowl with a substantial amount of curry and ingredients."
+    },
+    {
+        "id": 76,
+        "name": "Pasta Arrabbiata",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Pasta",
+            "Tomato sauce",
+            "Garlic, chili flakes",
+            "Olive oil",
+            "Parsley"
+        ],
+        "directions": [
+            "Cook pasta until al dente.",
+            "Saut\u00e9 garlic and chili in olive oil; add tomato sauce.",
+            "Toss with pasta and garnish with parsley."
+        ],
+        "image_description": "This image depicts a serving of Pasta Arrabbiata, characterized by its vibrant red sauce and generous portion size. The dish features penne pasta, cherry tomatoes, red chili peppers, and parsley, all presented in a dark brown ceramic bowl on a wooden table. The overall presentation is visually appealing, with the ingredients arranged artfully within the bowl."
+    },
+    {
+        "id": 77,
+        "name": "Cranberry Walnut Salad",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "0 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "Mixed greens",
+            "Cranberries",
+            "Walnuts",
+            "Feta or goat cheese",
+            "Balsamic vinaigrette"
+        ],
+        "directions": [
+            "Toss greens with cranberries, walnuts, and cheese.",
+            "Drizzle with vinaigrette."
+        ],
+        "image_description": "The image depicts a cranberry walnut salad, presented in a large, shallow ceramic bowl. The salad comprises mixed greens, sliced cucumbers, crumbled feta cheese, chopped walnuts, and cranberries, with a drizzle of dressing visible on top. The dish is served in a generous portion, accompanied by additional ingredients and condiments arranged around the bowl."
+    },
+    {
+        "id": 78,
+        "name": "Corn Chowder",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Corn kernels",
+            "Potatoes",
+            "Onion",
+            "Milk or cream",
+            "Butter",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Saut\u00e9 onion in butter; add potatoes and corn.",
+            "Add milk and simmer until thickened; season."
+        ],
+        "image_description": "The image depicts a bowl of corn chowder, a creamy soup made with corn kernels, potatoes, and onions. The dish is presented in a large, shallow bowl, garnished with chopped green onions and accompanied by various ingredients, including corn on the cob, a potato, salt, and butter. The overall presentation is visually appealing, with a warm color palette featuring shades of yellow, white, and brown."
+    },
+    {
+        "id": 79,
+        "name": "Eggplant Yakitori Skewers",
+        "cuisine": "Japanese",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "12 mins",
+        "total_time": "37 mins",
+        "ingredients": [
+            "Eggplant sticks",
+            "Soy glaze: soy sauce, sugar, mirin",
+            "Sesame seeds"
+        ],
+        "directions": [
+            "Skewer eggplant chunks; brush with glaze.",
+            "Grill until tender; garnish with sesame seeds."
+        ],
+        "image_description": "The image depicts a plate of eggplant yakitori skewers, showcasing grilled eggplant slices threaded onto wooden skewers and topped with sesame seeds. The eggplant is glazed with a dark brown sauce, adding a rich and savory element to the dish. The skewers are arranged on a white plate with a brown rim, accompanied by scattered sesame seeds and a small pool of the same dark brown sauce."
+    },
+    {
+        "id": 80,
+        "name": "Chana Masala",
+        "cuisine": "Indian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Chickpeas",
+            "Onion",
+            "Tomatoes",
+            "Garlic",
+            "Garam masala",
+            "Cumin",
+            "Coriander"
+        ],
+        "directions": [
+            "Saut\u00e9 onion and garlic; add spices.",
+            "Add tomatoes and chickpeas; simmer 15-20 minutes."
+        ],
+        "image_description": "This image shows a dish of 'Chana Masala', a popular Indian recipe featuring chickpeas in a rich, spiced tomato-based sauce. The dish is presented in a large bowl, garnished with sliced tomatoes and onions, and surrounded by various ingredients such as whole spices, ground spices, garlic cloves, and fresh tomatoes. The vibrant colors of the dish, including the golden chickpeas, red tomatoes, and orange spices, create a visually appealing presentation."
+    },
+    {
+        "id": 81,
+        "name": "Buttermilk Pancakes",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Flour",
+            "Buttermilk",
+            "Egg",
+            "Baking powder",
+            "Sugar"
+        ],
+        "directions": [
+            "Mix dry ingredients; whisk in wet ingredients until smooth.",
+            "Cook on a hot skillet until bubbles form; flip and cook through."
+        ],
+        "image_description": "The image depicts a stack of golden-brown buttermilk pancakes cooked in a large skillet, topped with a fried egg on each pancake. The pancakes are presented in a large cast-iron skillet, accompanied by various ingredients and condiments such as eggs, syrup, salt, and sugar on the surrounding table. The overall presentation is warm and inviting, with a focus on the golden-brown color of the pancakes and the soft light illuminating the scene."
+    },
+    {
+        "id": 82,
+        "name": "Mango Lassi",
+        "cuisine": "Indian",
+        "servings": 2,
+        "prep_time": "5 mins",
+        "cook_time": "0 mins",
+        "total_time": "5 mins",
+        "ingredients": [
+            "Mango pulp",
+            "Plain yogurt",
+            "Sugar",
+            "Cardamom (optional)"
+        ],
+        "directions": [
+            "Blend all ingredients until smooth.",
+            "Chill and serve."
+        ],
+        "image_description": "The image depicts a glass of 'Mango Lassi', a yogurt-based beverage, garnished with a sprinkle of spices and featuring a layer of mango puree on top. The glass is surrounded by ingredients such as diced mango, whole mangoes, sugar, cardamom pods, and a spice powder, all arranged on a wooden table. The presentation is visually appealing, with the glass placed on a burlap cloth amidst the ingredients, creating a rustic and inviting atmosphere."
+    },
+    {
+        "id": 83,
+        "name": "Pesto Pasta with Sun-Dried Tomatoes",
+        "cuisine": "Italian",
+        "servings": 3,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Pasta",
+            "Pesto",
+            "Sun-dried tomatoes",
+            "Parmesan"
+        ],
+        "directions": [
+            "Cook pasta; drain.",
+            "Toss with pesto and sun-dried tomatoes; top with parmesan."
+        ],
+        "image_description": "The image depicts a plate of pappardelle pasta tossed in a vibrant green pesto sauce, topped with sun-dried tomatoes and grated Parmesan cheese. The dish is presented on a large white plate, surrounded by an assortment of ingredients including fresh tomatoes, cheese blocks, bowls of pesto and grated cheese, and various spices. The overall presentation is visually appealing, with a generous portion size that suggests a satisfying meal."
+    },
+    {
+        "id": 84,
+        "name": "Salisbury Steak with Mushroom Gravy",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Ground beef",
+            "Mushrooms",
+            "Onion",
+            "Beef broth",
+            "Flour",
+            "Butter"
+        ],
+        "directions": [
+            "Form patties and brown in a pan; set aside.",
+            "Make gravy with mushrooms, onion, flour, and broth; return patties to pan and simmer."
+        ],
+        "image_description": "The image depicts a Salisbury steak dish, featuring a browned beef patty topped with saut\u00e9ed mushrooms and chives, served in a rich brown gravy. The plate is garnished with additional mushrooms, a pat of butter, and accompanied by a side of white rice and onions. The dish is presented in a dark-colored bowl or plate, set against a black background."
+    },
+    {
+        "id": 85,
+        "name": "Simple Garlic Herb Salmon",
+        "cuisine": "American",
+        "servings": 2,
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            "Salmon fillets",
+            "Garlic, minced",
+            "Herbs (dill or parsley)",
+            "Lemon juice",
+            "Olive oil"
+        ],
+        "directions": [
+            "Season salmon; sear in a pan with garlic and herbs.",
+            "Finish with lemon juice and serve."
+        ],
+        "image_description": "The image depicts a dish of salmon fillets cooked in a pan with garlic, herbs, and lemon. The two salmon fillets are placed side by side in the center of the pan, surrounded by sliced garlic cloves, sprigs of fresh dill, and a halved lemon. The pan is positioned on a wooden surface, accompanied by various seasonings and ingredients, including salt, peppercorns, and additional herbs, which are arranged around it in small bowls."
+    },
+    {
+        "id": 86,
+        "name": "Gnocchi with Sage Butter",
+        "cuisine": "Italian",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "ingredients": [
+            "Store-bought gnocchi",
+            "Butter",
+            "Fresh sage leaves",
+            "Parmesan"
+        ],
+        "directions": [
+            "Cook gnocchi until floating.",
+            "Brown butter with sage; toss with gnocchi and parmesan."
+        ],
+        "image_description": "The image depicts a dish of gnocchi with sage butter, presented in a white ceramic bowl. The gnocchi are pan-seared to a golden brown and topped with crispy sage leaves and grated Parmesan cheese. The portion size is generous, filling the bowl, and is accompanied by various ingredients and condiments, including olive oil, Parmesan cheese, and additional sage leaves."
+    },
+    {
+        "id": 87,
+        "name": "Shredded Beef Tostadas",
+        "cuisine": "Mexican",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "2 hours",
+        "total_time": "2 hours 20 mins",
+        "ingredients": [
+            "Beef chuck, slow-cooked and shredded",
+            "Tostada shells",
+            "Lettuce, tomato, cheese",
+            "Sour cream",
+            "Salsa"
+        ],
+        "directions": [
+            "Slow-cook beef with spices until tender; shred.",
+            "Top tostadas with beef and toppings."
+        ],
+        "image_description": "This image showcases a plate of shredded beef tostadas, featuring three corn tortillas topped with slow-cooked beef, lettuce, diced tomatoes, and sour cream. The dish is presented on a black plate, accompanied by lime wedges and surrounded by various toppings and ingredients, including salsa, cheese, and spices. The portion size appears to be suitable for a single serving or a small group."
+    },
+    {
+        "id": 88,
+        "name": "Chili Lime Grilled Corn",
+        "cuisine": "Mexican",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Corn on the cob",
+            "Butter",
+            "Chili powder",
+            "Lime juice",
+            "Salt"
+        ],
+        "directions": [
+            "Grill corn until charred; brush with butter.",
+            "Sprinkle chili powder and drizzle lime juice; season."
+        ],
+        "image_description": "The image depicts four ears of 'Chili Lime Grilled Corn', each grilled to a golden yellow with charred black spots and topped with a mixture of minced garlic, sliced red chili peppers, and lime wedges. The corn is arranged on a black slate plate, accompanied by various ingredients such as chili powder, lime halves, and a small bowl of corn kernels. The presentation is visually appealing, with the vibrant colors of the ingredients adding to the overall aesthetic."
+    },
+    {
+        "id": 89,
+        "name": "Herbed Rice with Peas",
+        "cuisine": "Indian/Global",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Basmati rice",
+            "Frozen peas",
+            "Spinach or cilantro",
+            "Butter or ghee"
+        ],
+        "directions": [
+            "Cook rice with peas; stir in greens and butter."
+        ],
+        "image_description": "The image depicts a dish of herbed rice with peas, presented in a large bowl and surrounded by various ingredients. The main bowl contains white rice mixed with green peas and chopped herbs, likely parsley or cilantro, arranged in a visually appealing manner. The surrounding ingredients include additional peas, herbs, onions, oil, salt, butter, and spices, which are displayed in smaller bowls and scattered around the main dish."
+    },
+    {
+        "id": 90,
+        "name": "Gulai Ayam (Indonesian Curry Chicken)",
+        "cuisine": "Indonesian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Chicken pieces",
+            "Gulai curry paste",
+            "Coconut milk",
+            "Vegetables (potatoes, carrots)"
+        ],
+        "directions": [
+            "Saut\u00e9 curry paste; add chicken and coconut milk.",
+            "Simmer with vegetables until cooked."
+        ],
+        "image_description": "The image depicts a dish of Gulai Ayam, or Indonesian Curry Chicken, presented in a large, shallow pan with two handles, resting on a round, wooden plate. The curry is composed of chicken pieces, sliced carrots, green beans, potatoes, and peas, all cooked in a rich, yellow-orange sauce and garnished with fresh herbs. The generous portion is served family-style, making it suitable for multiple servings."
+    },
+    {
+        "id": 91,
+        "name": "Spicy Peanut Noodles",
+        "cuisine": "Thai/Chinese Fusion",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "Rice noodles",
+            "Peanut butter",
+            "Soy sauce",
+            "Rice vinegar",
+            "Chili sauce",
+            "Garlic"
+        ],
+        "directions": [
+            "Cook noodles; whisk sauce with peanut butter.",
+            "Toss noodles with sauce and sesame seeds."
+        ],
+        "image_description": "This image shows a bowl of 'Spicy Peanut Noodles'. The dish is presented in a large, shallow ceramic bowl with a blue interior and brown exterior, filled with noodles, peanuts, sliced green onions, red chili peppers, and sesame seeds. The bowl is surrounded by various ingredients, including a small bowl of soy sauce, a bowl of salt, a lime wedge, sliced jalape\u00f1os, garlic, and additional peanuts, all arranged on a light gray surface."
+    },
+    {
+        "id": 92,
+        "name": "Herbed Quiche",
+        "cuisine": "French",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "Pie crust",
+            "Eggs",
+            "Cream",
+            "Cheese",
+            "Herbs",
+            "Vegetables (optional)"
+        ],
+        "directions": [
+            "Whisk eggs with cream and herbs.",
+            "Fill crust with cheese and vegetables; pour mixture and bake until set."
+        ],
+        "image_description": "This image showcases a 'Herbed Quiche' that has been sliced into eight equal portions and is presented in a round, fluted tart pan. The quiche filling is visible, featuring eggs, herbs, and cheese, with a golden-brown crust. The dish is surrounded by various ingredients, including cheese, eggs, herbs, and spices, which are arranged in small bowls and scattered around the tart pan."
+    },
+    {
+        "id": 93,
+        "name": "Baked Ziti",
+        "cuisine": "Italian",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Pasta",
+            "Tomato sauce",
+            "Ground beef or sausage",
+            "Mozzarella cheese",
+            "Parmesan"
+        ],
+        "directions": [
+            "Cook pasta; mix with sauce and meat.",
+            "Top with cheese and bake until bubbly."
+        ],
+        "image_description": "The image depicts a baked ziti dish, showcasing a generous serving of tubular pasta smothered in a rich tomato sauce and topped with a layer of melted white cheese and brown ground meat. The dish is presented in a white ceramic baking dish, accompanied by fresh tomatoes and a small bowl of tomato sauce on the side. The overall presentation suggests a hearty, comforting meal."
+    },
+    {
+        "id": 94,
+        "name": "Herbed Shrimp and Grits",
+        "cuisine": "American",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Shrimp",
+            "Grits",
+            "Butter",
+            "Garlic",
+            "Lemon",
+            "Parsley"
+        ],
+        "directions": [
+            "Prepare grits as per package instructions with butter.",
+            "Saut\u00e9 shrimp with garlic; stir in lemon and parsley.",
+            "Serve shrimp over grits."
+        ],
+        "image_description": "This image shows a dish of 'Herbed Shrimp and Grits'. The dish consists of creamy grits topped with saut\u00e9ed shrimp, garlic, and herbs, all presented in a large white bowl. The shrimp are cooked in a light-colored sauce with visible black pepper and parsley, and the portion size appears generous, suggesting a hearty serving."
+    },
+    {
+        "id": 95,
+        "name": "Duck Confit (Simple Version)",
+        "cuisine": "French",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "1 hour",
+        "total_time": "1 hour 20 mins",
+        "ingredients": [
+            "Duck legs confit (or duck legs and fat)",
+            "Garlic, thyme",
+            "Salt and pepper"
+        ],
+        "directions": [
+            "Crisp duck skin in a hot skillet; finish in oven until skin is golden and meat is tender."
+        ],
+        "image_description": "The image depicts a dish of 'Duck Confit (Simple Version)' featuring two golden-brown duck legs, slow-cooked in a rich, savory sauce with garlic cloves and herbs. The duck is presented on a dark plate within a cast-iron skillet, accompanied by a fork and various seasonings, including peppercorns and salt, arranged around the skillet on a wooden board. The overall presentation showcases a hearty, comforting meal with a focus on rich flavors and textures."
+    },
+    {
+        "id": 96,
+        "name": "Lemon Olive Oil Cake",
+        "cuisine": "Mediterranean",
+        "servings": 8,
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Lemon zest",
+            "Olive oil",
+            "Eggs",
+            "Baking powder",
+            "Milk"
+        ],
+        "directions": [
+            "Mix ingredients; bake in loaf pan until a toothpick comes out clean."
+        ],
+        "image_description": "The image presents a visually appealing 'Lemon Olive Oil Cake', showcasing a rectangular loaf with a golden-brown crust and a light yellow interior, sliced to reveal its texture. The cake is accompanied by various ingredients, including lemons, olive oil, eggs, flour, sugar, and baking powder, which are likely used in its preparation. The presentation features a clean and simple arrangement, with the cake placed on a beige surface surrounded by the ingredients, creating a warm and inviting atmosphere."
+    },
+    {
+        "id": 97,
+        "name": "Salsa Verde Chicken Tajine",
+        "cuisine": "Moroccan",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hour",
+        "ingredients": [
+            "Chicken pieces",
+            "Salsa verde",
+            "Chickpeas",
+            "Potatoes",
+            "Olives"
+        ],
+        "directions": [
+            "Combine ingredients in a tajine or pot; simmer until chicken is cooked and flavors meld."
+        ],
+        "image_description": "The dish depicted in the image is a 'Salsa Verde Chicken Tajine', a traditional North African stew. The stew contains chicken pieces, potatoes, chickpeas, carrots, onions, green and black olives, and red peppers, all cooked in a savory broth and garnished with fresh herbs. The ingredients are presented in a large, dark brown clay pot with two handles, showcasing a generous portion size and a vibrant color palette."
+    },
+    {
+        "id": 98,
+        "name": "Coconut Lime Chicken",
+        "cuisine": "Thai/Caribbean Fusion",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "Chicken thighs",
+            "Coconut milk",
+            "Lime juice",
+            "Garlic",
+            "Thai curry paste"
+        ],
+        "directions": [
+            "Saut\u00e9 garlic and curry paste; add chicken and coconut milk.",
+            "Simmer until chicken is cooked; finish with lime juice."
+        ],
+        "image_description": "The image depicts a dish of 'Coconut Lime Chicken', featuring four chicken legs in a yellow curry sauce garnished with sliced limes, red chili peppers, shallots, garlic cloves, and cilantro leaves. The dish is presented in a gray ceramic bowl on a gray cloth napkin, surrounded by various ingredients such as whole limes, dried red chilies, salt, and spices. The portion size appears to be generous, suggesting it is intended for multiple servings."
+    },
+    {
+        "id": 99,
+        "name": "Spinach and Feta Stuffed Peppers",
+        "cuisine": "Mediterranean",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "Bell peppers",
+            "Spinach",
+            "Feta cheese",
+            "Rice or quinoa",
+            "Tomato sauce"
+        ],
+        "directions": [
+            "Cook filling with spinach and feta; stuff peppers.",
+            "Bake in sauce until peppers tender."
+        ],
+        "image_description": "The image depicts a dish of 'Spinach and Feta Stuffed Peppers', showcasing five bell peppers in various shades of green and yellow, each filled with a mixture of rice, spinach, and feta cheese. The peppers are arranged in a cast-iron skillet, resting on a bed of marinara sauce and garnished with fresh basil leaves. The portion size appears to be moderate, with each pepper being a single serving."
+    },
+    {
+        "id": 100,
+        "name": "Gado-Gado (Indonesian Peanut Salad)",
+        "cuisine": "Indonesian",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "Boiled vegetables (beans, cabbage, potato)",
+            "Hard-boiled eggs",
+            "Tofu or tempeh",
+            "Peanut sauce: peanuts, palm sugar, tamarind, lime"
+        ],
+        "directions": [
+            "Arrange vegetables, eggs, and tofu on a plate.",
+            "Drizzle with warm peanut sauce and serve."
+        ],
+        "image_description": "The image depicts a vibrant and nutritious dish, Gado-Gado, an Indonesian salad comprising a diverse array of ingredients. The salad features a medley of steamed vegetables, including green beans, carrots, and cabbage, accompanied by boiled eggs, tofu, chickpeas, and peanuts, all arranged on a large ceramic plate with a blue-green glaze and brown rim. The ingredients are artfully presented in a visually appealing manner, showcasing a variety of colors and textures."
+    },
+    {
+        "id": 101,
+        "name": "Kung Pao Chicken",
+        "cuisine": "Chinese (Szechuan)",
+        "servings": 3,
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "500g chicken breast, cubed",
+            "1/2 cup roasted peanuts",
+            "3-4 dried red chilies",
+            "2 cloves garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon rice vinegar",
+            "1 teaspoon sugar",
+            "1 tablespoon cornstarch mixed with 1 tablespoon water",
+            "2 tablespoons vegetable oil"
+        ],
+        "directions": [
+            "In a small bowl, mix soy sauce, vinegar, and sugar to make the sauce.",
+            "Heat oil in a wok and stir-fry the chicken until cooked through; remove and set aside.",
+            "In the same wok, saut\u00e9 garlic, ginger, and dried chilies until fragrant.",
+            "Return chicken to the wok, add the peanuts and the sauce mixture.",
+            "Stir in the cornstarch slurry and cook until the sauce thickens and coats the chicken.",
+            "Serve hot with steamed rice."
+        ],
+        "image_description": "The image depicts a wok filled with Kung Pao Chicken, a dish characterized by its vibrant colors and diverse ingredients. The chicken is cooked in a savory sauce and accompanied by visible peanuts, red chilies, and onions, all of which are stir-fried together in the wok. The presentation is generous, with a substantial portion of the dish displayed prominently in the center of the image."
+    },
+    {
+        "id": 102,
+        "name": "Mapo Tofu",
+        "cuisine": "Chinese (Szechuan)",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "400g soft tofu, cubed",
+            "100g ground pork or beef",
+            "2 tablespoons Doubanjiang (spicy bean paste)",
+            "1 tablespoon soy sauce",
+            "1 teaspoon Szechuan peppercorns, crushed",
+            "2 green onions, chopped",
+            "1 cup chicken broth",
+            "1 tablespoon cornstarch slurry"
+        ],
+        "directions": [
+            "Brown the ground meat in a wok over medium-high heat.",
+            "Add the spicy bean paste and peppercorns, stirring until fragrant and the oil turns red.",
+            "Pour in the chicken broth and soy sauce; bring to a simmer.",
+            "Gently add the tofu cubes and simmer for 5 minutes.",
+            "Stir in the cornstarch slurry to thicken the sauce.",
+            "Garnish with green onions and serve."
+        ],
+        "image_description": "The image depicts a large serving of 'Mapo Tofu', a Chinese dish, in a wok or large pan. The dish consists of cubed tofu and ground meat, likely pork or beef, cooked in a savory sauce with visible chili peppers and scallions. The ingredients are presented in a generous portion, filling the pan, and are accompanied by various seasonings and condiments arranged around the pan."
+    },
+    {
+        "id": 103,
+        "name": "Beef and Broccoli",
+        "cuisine": "Chinese (Cantonese)",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "300g flank steak, thinly sliced against the grain",
+            "2 cups broccoli florets",
+            "2 tablespoons oyster sauce",
+            "1 tablespoon soy sauce",
+            "1 tablespoon ginger, minced",
+            "1 tablespoon cornstarch",
+            "2 tablespoons vegetable oil"
+        ],
+        "directions": [
+            "Toss beef slices with cornstarch and a splash of soy sauce; let sit for 10 minutes.",
+            "Blanch broccoli in boiling water for 2 minutes, then drain.",
+            "Heat oil in a wok and sear beef at high heat until browned; remove.",
+            "Stir-fry ginger for 30 seconds, then add broccoli, oyster sauce, and soy sauce.",
+            "Return beef to the wok and toss everything together for 1 minute.",
+            "Serve immediately."
+        ],
+        "image_description": "The image depicts a vibrant and appetizing dish of beef and broccoli, presented in a large black wok or frying pan. The dish features tender chunks of beef and steamed broccoli florets, accompanied by sliced mushrooms, all stir-fried together in a savory sauce. The ingredients are arranged artfully on the plate, with the beef and broccoli distributed evenly throughout, creating a visually appealing composition."
+    },
+    {
+        "id": 104,
+        "name": "General Tso's Chicken",
+        "cuisine": "Chinese-American",
+        "servings": 3,
+        "prep_time": "25 mins",
+        "cook_time": "15 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "500g chicken thighs, cut into bite-sized pieces",
+            "1/2 cup cornstarch (for coating)",
+            "1/4 cup soy sauce",
+            "2 tablespoons rice vinegar",
+            "2 tablespoons sugar",
+            "1 tablespoon ginger-garlic paste",
+            "Oil for deep frying",
+            "Dried red chilies to taste"
+        ],
+        "directions": [
+            "Coat chicken pieces thoroughly in cornstarch.",
+            "Deep fry chicken in hot oil until crispy and golden; drain on paper towels.",
+            "In a separate pan, saut\u00e9 ginger, garlic, and chilies.",
+            "Add soy sauce, vinegar, and sugar; simmer until the sugar dissolves.",
+            "Toss the crispy chicken into the sauce until fully coated.",
+            "Serve over white rice."
+        ],
+        "image_description": "The image depicts a dish of General Tso's Chicken, featuring crispy fried chicken pieces coated in a dark orange sauce and served with white rice. The chicken is garnished with sliced red chili peppers, sesame seeds, and pieces of ginger, and is presented in a brown ceramic bowl alongside a portion of white rice topped with additional sliced red chili peppers. The overall presentation is visually appealing, with a generous portion size and a variety of textures and colors on display."
+    },
+    {
+        "id": 105,
+        "name": "Pork Potstickers (Dumplings)",
+        "cuisine": "Chinese",
+        "servings": 4,
+        "prep_time": "40 mins",
+        "cook_time": "15 mins",
+        "total_time": "55 mins",
+        "ingredients": [
+            "20-25 dumpling wrappers",
+            "300g ground pork",
+            "1 cup cabbage, finely shredded",
+            "1 tablespoon soy sauce",
+            "1 teaspoon sesame oil",
+            "1 teaspoon ginger, grated",
+            "2 tablespoons vegetable oil",
+            "1/4 cup water"
+        ],
+        "directions": [
+            "Mix pork, cabbage, soy sauce, sesame oil, and ginger in a bowl.",
+            "Place a teaspoon of filling in the center of a wrapper, moisten edges, and fold/pleat to seal.",
+            "Heat oil in a flat skillet and arrange dumplings in a single layer.",
+            "Fry for 2 minutes until bottoms are golden.",
+            "Pour in water and immediately cover with a lid to steam for 5-7 minutes.",
+            "Remove lid and cook until water evaporates and bottoms are crispy again."
+        ],
+        "image_description": "This image shows a serving of pan-fried dumplings, known as potstickers, arranged in a cast-iron skillet. The dumplings are golden brown on the bottom and topped with sesame seeds, accompanied by a small bowl of dipping sauce containing soy sauce and additional sesame seeds. The dish is presented on a wooden cutting board, with visible cabbage or bok choy underneath the dumplings."
+    },
+    {
+        "id": 106,
+        "name": "Hot and Sour Soup",
+        "cuisine": "Chinese",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            "4 cups chicken or vegetable broth",
+            "1/2 cup tofu, cut into matchsticks",
+            "1/4 cup bamboo shoots, sliced",
+            "2 tablespoons soy sauce",
+            "1/4 cup rice vinegar",
+            "1 teaspoon white pepper",
+            "1 egg, beaten",
+            "2 tablespoons cornstarch slurry"
+        ],
+        "directions": [
+            "Bring broth to a boil in a large pot.",
+            "Add tofu, bamboo shoots, soy sauce, and white pepper.",
+            "Stir in the cornstarch slurry and simmer until thickened.",
+            "Slowly drizzle in the beaten egg while stirring gently to create ribbons.",
+            "Stir in the rice vinegar at the very end to preserve the 'sour' punch.",
+            "Garnish with green onions."
+        ],
+        "image_description": "The image depicts a large pot of Hot and Sour Soup, showcasing a medley of ingredients including tofu, bamboo shoots, noodles, and green onions in a savory broth. The dish is garnished with a raw egg yolk and features a variety of accompaniments such as soy sauce, rice starter, and chili sauce, arranged around the pot. The vibrant colors and detailed presentation suggest a generous serving size, likely intended for multiple people."
+    },
+    {
+        "id": 107,
+        "name": "Chow Mein",
+        "cuisine": "Chinese",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "ingredients": [
+            "200g chow mein noodles",
+            "1 cup cabbage, sliced",
+            "1 carrot, julienned",
+            "2 tablespoons soy sauce",
+            "1 tablespoon oyster sauce",
+            "1 teaspoon sugar",
+            "2 tablespoons vegetable oil"
+        ],
+        "directions": [
+            "Boil noodles according to package instructions, drain, and set aside.",
+            "Heat oil in a wok and stir-fry cabbage and carrots for 3 minutes.",
+            "Add the noodles to the wok.",
+            "Mix soy sauce, oyster sauce, and sugar, then pour over the noodles.",
+            "Toss at high heat for 2-3 minutes until noodles are slightly charred and well coated.",
+            "Serve hot."
+        ],
+        "image_description": "The image depicts a plate of Chow Mein, a Chinese stir-fry dish, featuring noodles, broccoli, carrots, cabbage, and peppers. The ingredients are cooked together in a savory sauce and presented on a large, shallow ceramic plate with a brown rim, accompanied by chopsticks and two small bowls containing soy sauce and sesame seeds or sugar. The generous portion is artfully arranged, showcasing a vibrant mix of colors against a dark background."
+    },
+    {
+        "id": 108,
+        "name": "Wonton Soup",
+        "cuisine": "Chinese (Cantonese)",
+        "servings": 3,
+        "prep_time": "30 mins",
+        "cook_time": "10 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            "12-15 frozen or fresh wontons",
+            "4 cups chicken broth",
+            "1 tablespoon soy sauce",
+            "1/2 teaspoon sesame oil",
+            "1/2 cup bok choy leaves",
+            "Green onions for garnish"
+        ],
+        "directions": [
+            "Bring chicken broth and soy sauce to a boil in a pot.",
+            "Add the wontons and simmer for 5 minutes (or until they float).",
+            "Add bok choy and cook for 1 minute until wilted.",
+            "Turn off heat and stir in sesame oil.",
+            "Ladle into bowls and garnish with green onions."
+        ],
+        "image_description": "This image depicts a dish of 'Wonton Soup', showcasing three bowls filled with wontons and green onions in a clear broth. The soup is served alongside various accompaniments, including bok choy, chopped green onions, and seasonings, arranged on a wooden tray. The presentation features a harmonious balance of colors, with the white wontons and light broth complemented by the vibrant green of the onions and bok choy."
+    },
+    {
+        "id": 109,
+        "name": "Honey Walnut Shrimp",
+        "cuisine": "Chinese (Hong Kong Style)",
+        "servings": 3,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "ingredients": [
+            "500g large shrimp, peeled and deveined",
+            "1/2 cup cornstarch",
+            "2 eggs, beaten",
+            "1/4 cup mayonnaise",
+            "1 tablespoon honey",
+            "1 tablespoon condensed milk",
+            "1/2 cup candied walnuts",
+            "Oil for frying"
+        ],
+        "directions": [
+            "Dip shrimp in egg, then coat with cornstarch.",
+            "Fry shrimp in hot oil until golden and crispy; drain.",
+            "In a large bowl, whisk together mayonnaise, honey, and condensed milk.",
+            "Toss the warm shrimp and candied walnuts into the sauce until evenly coated.",
+            "Serve immediately, usually garnished with steamed broccoli."
+        ],
+        "image_description": "The image depicts a dish of 'Honey Walnut Shrimp', featuring large shrimp coated in a creamy sauce, accompanied by broccoli florets, halved hard-boiled eggs, and walnuts. The ingredients are arranged in a shallow blue ceramic bowl with a brown rim, set against a light blue background. The portion size appears generous, with multiple shrimp and accompanying vegetables visible in the bowl."
+    }
+]
